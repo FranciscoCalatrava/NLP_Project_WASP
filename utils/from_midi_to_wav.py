@@ -3,6 +3,8 @@ from essentia.standard import MonoLoader
 import sys
 import random
 import os
+import numpy as np
+import h5py
 
 
 
@@ -37,6 +39,26 @@ def create_wav_dataset(paths, soundfont_path):
         fs.midi_to_audio(a, f"dataset/midicap/midicaps/prepared/{name[:-4]}.wav")
 
 
+def create_embeddings():
+    path = "dataset/midicap/midicaps/prepared/"
+    name_wav = [f for f in os.listdir(path) if os.path.isfile(os.path.join(path, f))]
+    elements = []
+    
+    for a in name_wav:
+        audio = MonoLoader(filename = path+a, sampleRate=16000, resampleQuality=4)()
+        elements.append(audio)
+
+    with h5py.File(path+"embedding.h5", 'w') as hf:
+        for i, data in enumerate(elements):
+                    grp = hf.create_group(f'item_{i}')
+                    grp.create_dataset('data', data=data)
+    
+
+
+
+
+
+
 
 
 
@@ -57,4 +79,5 @@ if __name__ == "__main__":
 
     create_wav_dataset(samples, input_parameters['soundfont_path'])
 
+    create_embeddings()
     print(get_paths(input_parameters['samples'], input_parameters['dataset_path'])[0:5])
