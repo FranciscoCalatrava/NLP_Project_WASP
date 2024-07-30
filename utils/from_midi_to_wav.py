@@ -7,8 +7,6 @@ import numpy as np
 import h5py
 
 
-
-
 def get_paths(samples,dataset_path):
     # Get a list of all files in the directory
     dir_names = [f for f in os.listdir(dataset_path) if os.path.isdir(os.path.join(dataset_path, f))]
@@ -43,24 +41,18 @@ def create_embeddings():
     path = "dataset/midicap/midicaps/prepared/"
     name_wav = [f for f in os.listdir(path) if os.path.isfile(os.path.join(path, f))]
     elements = []
+
+    # print(name_wav)
     
     for a in name_wav:
         audio = MonoLoader(filename = path+a, sampleRate=16000, resampleQuality=4)()
         elements.append(audio)
 
-    with h5py.File(path+"embedding.h5", 'w') as hf:
-        for i, data in enumerate(elements):
-                    grp = hf.create_group(f'item_{i}')
+    with h5py.File(path+"embeddings/embedding.h5", 'w') as hf:
+        for name, data in zip(name_wav,elements):
+                    grp = hf.create_group(name)
                     grp.create_dataset('data', data=data)
     
-
-
-
-
-
-
-
-
 
 
 
@@ -74,10 +66,10 @@ if __name__ == "__main__":
         "seed": int(sys.argv[4])
     }
 
-    samples = get_paths(input_parameters['samples'], input_parameters['dataset_path'])
+    # samples = get_paths(input_parameters['samples'], input_parameters['dataset_path'])
 
 
-    create_wav_dataset(samples, input_parameters['soundfont_path'])
+    # create_wav_dataset(samples, input_parameters['soundfont_path'])
 
     create_embeddings()
     print(get_paths(input_parameters['samples'], input_parameters['dataset_path'])[0:5])
