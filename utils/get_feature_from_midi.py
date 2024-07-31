@@ -3,10 +3,21 @@ import pandas as pd
 import mido
 from music21 import converter, corpus, instrument, midi, note, chord, pitch, stream
 from collections import defaultdict
+import pretty_midi
 
 
 def read_midi(path_midi):
     midi_file = midi
+
+def get_instruments_pretty_midi(file_path):
+    midi_data = pretty_midi.PrettyMIDI(file_path)
+    ins = []
+    for instrument in midi_data.instruments:
+        if instrument.is_drum == True:
+            ins.append(128)
+        else:
+            ins.append(instrument.program)
+    return ins
 
 def get_instruments_from_midi(file_path):
     midi = mido.MidiFile(file_path)
@@ -170,3 +181,5 @@ if __name__ == "__main__":
 
 
     print(get_final_inst_list_1("dataset/midicap/midicaps/lmd_full/0/0a0b59b984e78fccd380b44938a17ad4.mid"))
+
+    print(get_instruments_pretty_midi("dataset/midicap/midicaps/lmd_full/0/0a0b59b984e78fccd380b44938a17ad4.mid"))
