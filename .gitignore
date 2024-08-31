@@ -1,4 +1,5 @@
-dataset/*
+dataset/midicap/*
+dataset/vgmidi/*
 DLNLP/*
 nlp/*
 genre_models/*
