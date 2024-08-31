@@ -1,0 +1,538 @@
+[
+    {
+        "input": "However, the effects of emotion on learning and memory are not always univalent, as studies have rep",
+        "output": "orted that emotion either enhances or impairs learning and long-term memory retention, depending on"
+    },
+    {
+        "input": "Recent neuroimaging \ufb01ndings have indicated that the amygdala and prefrontal cortex cooperate with th",
+        "output": "e medial temporal lobe in an integrated manner that affords the amygdala modulating memory consolida"
+    },
+    {
+        "input": "This review highlights a basic evolutionary approach to emotion to understand the effects of emotion",
+        "output": "on learning and memory and the functional roles played by various brain regions and their mutual in"
+    },
+    {
+        "input": "In addition to elucidating the memory-enhancing effects of emotion, neuroimaging \ufb01ndings extend our",
+        "output": "understanding of emotional in\ufb02uences on learning and memory processes; this knowledge may be useful"
+    },
+    {
+        "input": "for the design of effective educational curricula to provide a conducive learning environment for bo",
+        "output": "th traditional \u201clive\u201d learning in classrooms and \u201cvirtual\u201d learning through online-based educational"
+    },
+    {
+        "input": "The usage of computer-based multimedia educational technologies, such as intelligent tutoring system",
+        "output": "s and massive open online courses , which are gradually replacing traditional face-to-face learning"
+    },
+    {
+        "input": "Recent studies using functional neuroimaging techniques detect and recognize human emotional states",
+        "output": "and have become a topic of increasing research in cognitive neuroscience, a\ufb00ective neuroscience, and"
+    },
+    {
+        "input": "Human emotions comprise complex interactions of subjective feelings as well as physiological and beh",
+        "output": "avioral responses that are especially triggered by external stimuli, which are subjectively perceive"
+    },
+    {
+        "input": "d as \u201cpersonally signi\ufb01cant.\u201d Three di\ufb00erent approaches are used to monitor the changes in emotional",
+        "output": "states: subjective approaches that assess subjective feelings and experiences; behavioral investiga"
+    },
+    {
+        "input": "tions of facial expressions , vocal expressions , and gestural changes ; and objective approaches vi",
+        "output": "a physiological responses that include electrical and hemodynamic of the central nervous system acti"
+    },
+    {
+        "input": "The CNS and ANS physiological responses can be objectively measured via neuroimaging and biosensors",
+        "output": "and are more di\ufb03cult to consciously conceal or manipulate compared to subjective and behavioral resp"
+    },
+    {
+        "input": "Although functional neuroimaging enables us to identify brain regions of interest for cognitive and",
+        "output": "emotional processing, it is di\ufb03cult to comprehend emotional in\ufb02uences on learning and memory retriev"
+    },
+    {
+        "input": "We initially present the terminology used in a\ufb00ective neuroscience studies, describe the roles of em",
+        "output": "otion and motivation in learning and memory, and outline the evolutionary framework and the seven pr"
+    },
+    {
+        "input": "This is followed by a discussion of four major functional neuroimaging techniques, including functio",
+        "output": "nal magnetic resonance imaging , positron emission tomography , electroencephalography , and functio"
+    },
+    {
+        "input": "We then present the important factors for consideration in experimental design, followed by a descri",
+        "output": "ption of psychiatric disorders, such as depression and anxiety, which are emotionally charged dysfun"
+    },
+    {
+        "input": "A review of 92 putative de\ufb01nitions and nine skeptical statements suggests a de\ufb01nition with a rather",
+        "output": "broad consensus: Emotions describe a complex set of interactions between subjective and objective va"
+    },
+    {
+        "input": "riables that are mediated by neural and hormonal systems, which can give rise to a\ufb00ective experience",
+        "output": "s of emotional valence and emotional arousal ; generate cognitive processes such as emotionally rele"
+    },
+    {
+        "input": "vant perceptual a\ufb00ect, appraisals, labeling processes; activate widespread psychological and physiol",
+        "output": "ogical changes to the arousing conditions; and motivate behavior that is often but not always expres"
+    },
+    {
+        "input": "Although this de\ufb01nition may be adequate for everyday purposes, it does not encompass some important",
+        "output": "aspects of emotional systems such as how emotions operate to create subjectively experienced feeling"
+    },
+    {
+        "input": "Accordingly, Panksepp suggested the following: Emotions are the psychoneural processes that are in\ufb02u",
+        "output": "ential in controlling the vigor and patterning of actions in the dynamic \ufb02ow of intense behavioral i"
+    },
+    {
+        "input": "Hence, each emotion has a characteristic \u201cfeeling tone\u201d that is especially important in encoding the",
+        "output": "intrinsic values of these interactions, depending on their likelihood of either promoting or hinder"
+    },
+    {
+        "input": "Subjective Emotional In\ufb02uences on Learning and Memory experiential-feelings arise from the interacti",
+        "output": "ons of various emotional systems with the fundamental brain substrates of \u201cthe self,\u201d that is import"
+    },
+    {
+        "input": "He went further to propose seven primary emotional systems/prototype emotional states, namely SEEKIN",
+        "output": "G, RAGE, FEAR, LUST, CARE, PANIC/GRIEF, and PLAY that represent basic foundations for living and lea"
+    },
+    {
+        "input": "In contrast, feelings refer to mental experiences that are necessarily valence, either good or bad a",
+        "output": "s well as accompanied by internal physiological changes in the body, speci\ufb01cally the viscera, includ"
+    },
+    {
+        "input": "Because the generation of emotional feelings requires a neural re- mapping of di\ufb00erent features of t",
+        "output": "he body state in the CNS, resulting from cognitive \u201cappraisal\u201d where the anterior insular cortex pla"
+    },
+    {
+        "input": "Nonetheless, Panksepp has defended the view that emotional operating systems appeared to generate em",
+        "output": "otional experiences via localized electrical stimulation of the brain stimulation rather dependent o"
+    },
+    {
+        "input": "In addition, a \u201cdrive\u201d is an inherent action program that is responsible for the satisfaction of bas",
+        "output": "ic and instinctual physiological needs, e.g., hunger, thirst, libido, exploration, play, and attachm"
+    },
+    {
+        "input": "ent to mates ; this is sometimes called \u201chomeostatic drive.\u201d In brief, a crucial characteristic shar",
+        "output": "ed by emotion, mood, feeling, a\ufb00ect and drive is their intrinsic valence, which lies on the spectrum"
+    },
+    {
+        "input": "The term emotion exempli\ufb01es the \u201cumbrella\u201d concept that includes a\ufb00ective, cognitive, behavioral, ex",
+        "output": "pressive and physiological changes; emotion is triggered by external stimuli and associated with the"
+    },
+    {
+        "input": "Conversely, a recent study reported that negative learning-centered state improve learning because o",
+        "output": "f an increased focus of attention on learning material that leads to higher performances on post tes"
+    },
+    {
+        "input": "A confused student might be frustrated with their poor understanding of subject matter, and this is",
+        "output": "related to both the SEEKING and RAGE systems, with a low-level of activation of rage or irritation,"
+    },
+    {
+        "input": "The term \u201csurprising\u201d might be conceptualized as an incongruous situation refers to a discrepancy be",
+        "output": "tween prior expectations and the new information; it may drive a cognitive reset for \u201clearned conten"
+    },
+    {
+        "input": "Thus, stimulating selective attention increases the likelihood for emotional information to become e",
+        "output": "ncoded in LTM storage associated with a top-down control in sensory pathways that are modulated by t"
+    },
+    {
+        "input": "Top-down attentional processing obtains adequate attentional resource allocation to process emotiona",
+        "output": "l valence information for encoding and retrieval via cooperation with the brain regions such as the"
+    },
+    {
+        "input": "Strong emotion is intrinsically conscious at least in the sense that it is experienced even if we mi",
+        "output": "ght mislabel it, or animal clearly is not able to attach a semantic label-these are simply not reali"
+    },
+    {
+        "input": "This includes the basal ganglia , and the medial temporal lobe including hippocampus as well as the",
+        "output": "entorhinal cortex, perirhinal cortex, and parahippocampal cortices that responsible for declarative"
+    },
+    {
+        "input": "Higher cognitive functions operate within the cortical regions, including the frontal cortex for awa",
+        "output": "reness and consciousness functions such as thinking, planning, emotional regulation and free-will ,"
+    },
+    {
+        "input": "Tertiary processes are continually integrated with the secondary processes and reach a mature level",
+        "output": "to better anticipating key survival issues, thus yielding cognitive control of emotion via \u201ctop-down"
+    },
+    {
+        "input": "More speci\ufb01cally stated, emotion regulates the allocation of processing resources and determines our",
+        "output": "behavior by tuning us to the world in certain biased ways, thus steering us toward things that \u201cfee"
+    },
+    {
+        "input": "Thus, from an evolutionary perspective, human mental activity is driven by the ancient emotional and",
+        "output": "motivational brain systems shared by cross- mammalians that encode life-sustaining and life-detract"
+    },
+    {
+        "input": "Hence, individuals sustain bodily changes that underlie psychological and biological in\ufb02uences on tw",
+        "output": "o sides, i.e., one side is oriented toward the survival and reproductive success that is associated"
+    },
+    {
+        "input": "In other words, the SEEKING system has been designed to automatically learn by exploring anything th",
+        "output": "at results in acquired behavioral manifestations for survival operations, all the way from the mesol"
+    },
+    {
+        "input": "Moreover, massive lesion of SEEKING\u2019s neural network , medial forebrain and anterior cingulate) lead",
+        "output": "to consciousness disorder, speci\ufb01cally akinetic mutism syndrome that the patient appears wakeful, a"
+    },
+    {
+        "input": "In brief, the SEEKING system holds a critical position that optimizes the performance of emotion, mo",
+        "output": "tivation, and cognition processes by generating positive subjective emotional states-positive expect"
+    },
+    {
+        "input": "Studies in psychology and neuroscience proposed that cognition and emotion processes are operated at",
+        "output": "two separate but interacting systems: the \u201ccool cognitive system\u201d is hippocampus-based that is asso"
+    },
+    {
+        "input": "ciated with emotionally neutral cognitive functions as well as cognitive controls; and the \u201chot emot",
+        "output": "ional system\u201d is amygdala-based that responsible for emotional processing and responses toward uncon"
+    },
+    {
+        "input": "The dorsal stream encompasses the dorsolateral prefrontal cortex and lateral parietal cortex, which",
+        "output": "are involved in the cool system for active maintenance of controlled processes such as cognitive per"
+    },
+    {
+        "input": "In contrast, the hot system involves the ventral neural system, including the amygdala, ventrolatera",
+        "output": "l prefrontal cortex and medial prefrontal cortex as well as orbitofrontal and occipito-temporal cort"
+    },
+    {
+        "input": "In other words, although cognitive and a\ufb00ective processes can be independently conceptualized, it is",
+        "output": "not surprising that emotions powerfully modify cognitive appraisals and memory processes and vice v"
+    },
+    {
+        "input": "The hippocampus is located in the MTL and is thought to be responsible for the potentiation and cons",
+        "output": "olidation of declarative memory before newly formed memories are distributed and stored in cortical"
+    },
+    {
+        "input": "Moreover, evidence indicates that the hippocampus functions as a hub for brain network communication",
+        "output": "s-a type of continuous exchange of information center that establishes LTM dominated by theta wave o"
+    },
+    {
+        "input": "Numerous studies have reported that the amygdala and hippocampus are synergistically activated durin",
+        "output": "g memory encoding to form a LTM of emotional information, that is associated with better retention ."
+    },
+    {
+        "input": "More importantly, these studies strongly suggest that the amygdala\u2019s involvement in emotional proces",
+        "output": "sing strengthens the memory network by modulating memory consolidation; thus, emotional content is r"
+    },
+    {
+        "input": "Consistent \ufb01ndings were reported for recognition tasks investigated by fMRI where the left PFC-hippo",
+        "output": "campal network appeared to support successful memory encoding for neutral and negative non-arousing"
+    },
+    {
+        "input": "Because of the interaction between basolateral complex of the amygdala with other brain regions that",
+        "output": "are involved in consolidating memories, including the hippocampus, caudate nucleus, NAc, and other"
+    },
+    {
+        "input": "Moreover, the amygdala transmits direct feedback/projection along the entire rostral-caudal cortices",
+        "output": "to the visual cortex of the ventral stream system, including primary visual and temporal cortices ;"
+    },
+    {
+        "input": "In addition to attentional biases toward emotional content during memory encoding, emotionally arous",
+        "output": "ing experiences have been found to induce the release of adrenal stress hormones, followed by the ac"
+    },
+    {
+        "input": "Thus, there is evidence that the consolidation of new memory that is stimulated by emotionally arous",
+        "output": "ing experiences can be enhanced through the modulating e\ufb00ects of the release of stress hormones and"
+    },
+    {
+        "input": "Consequently, understanding, managing, and regulating emotion is critical to the development of enha",
+        "output": "nced learning programs informed by the signi\ufb01cant impacts of learning and memory under di\ufb00erent type"
+    },
+    {
+        "input": "Moreover, it is thought to act as a control center for selective attention , and also plays a critic",
+        "output": "al role in WM as well as semantic processing, cognitive control, problem-solving, reasoning and emot"
+    },
+    {
+        "input": "Furthermore, an fMRI study revealed concurrent activation levels of the dorsomedial prefrontal corte",
+        "output": "x with emotional valence when processing emotional stimuli: activation was associated with positive"
+    },
+    {
+        "input": "Similarly, emotional and non-emotional judgment task using the International A\ufb00ective Pictures Syste",
+        "output": "m demonstrated increased activation of the mPFC, speci\ufb01cally both ventromedial prefrontal cortex and"
+    },
+    {
+        "input": "Other studies reported strong cognition-emotion interactions in the lateral prefrontal cortex with i",
+        "output": "ncreased activity in the DLPFC, which plays a key role in top-down modulation of emotional processin"
+    },
+    {
+        "input": "For instance, one study reported that cognitive task appeared to require active retention in WM, not",
+        "output": "ing that the process was in\ufb02uenced by emotional stimuli when subjects were instructed to remember em"
+    },
+    {
+        "input": "Furthermore, they observed that the DLPFC contributed to increased LTM performance linked to stronge",
+        "output": "r item associations and greater organization of information in WM during pleasant compared to unplea"
+    },
+    {
+        "input": "Another study investigated the PFC\u2019s role in emotional mediation, reporting that the right VLPFC pro",
+        "output": "vided cognitive resources for both emotional reappraisal and learning processes via two separate sub"
+    },
+    {
+        "input": "Certain characteristics of emotional content were found to mediate the encoding and retrieval of sel",
+        "output": "ective information by leading high levels of attention, distinctiveness, and information organizatio"
+    },
+    {
+        "input": "E\ufb00ects of emotion on memory was also investigated using immediate and delayed testing paradigm, has",
+        "output": "shown that better recall for emotionally negative stimuli during immediate test compared to delayed"
+    },
+    {
+        "input": "Meanwhile, the distinctiveness and organization of information can improve memory because unique att",
+        "output": "ributes and inter-item elaboration during encoding serve as retrieval cues, which then lead to high"
+    },
+    {
+        "input": "Consistent \ufb01ndings were also reported by , who suggested an emotional mediation e\ufb00ect deriving from",
+        "output": "PFC activity in relation to cognitive functions such as strategic memory, semantic memory, and WM, w"
+    },
+    {
+        "input": "As discussed above, evidence indicates the neural mechanisms underlying the emotional processing of",
+        "output": "valence and arousal involve the amygdala and PFC, where the amygdala responds to emotionally arousin"
+    },
+    {
+        "input": "An event-related fMRI study examined the neural correlates of responses to emotional pictures and wo",
+        "output": "rds in which both were manipulated in terms of positive and negative valence, and where neutral emot"
+    },
+    {
+        "input": "The researchers concluded that arousal- related responses occur in the amygdala, dmPFC, vmPFC, anter",
+        "output": "ior temporal lobe and temporo-occipital junction, whereas valence-dependent responses were associate"
+    },
+    {
+        "input": "The lateralization of the amygdala\u2019s activation was consistent with that in other studies that also",
+        "output": "showed left-lateralized amygdala responses for words vs. right-lateralized amygdala responses for im"
+    },
+    {
+        "input": "The results revealed that negative posterior ERPs were evoked in the temporo-parieto-occipital regio",
+        "output": "ns, while enhanced positive ERPs were evoked in the fronto-central regions when compared with neutra"
+    },
+    {
+        "input": "Moreover, augmented responses observed in the later positive complex , i.e., larger late positive wa",
+        "output": "ves in response to emotional verbs and angry faces, all associated with the increased motivational s"
+    },
+    {
+        "input": "A subjective experiment for word recall and context recognition revealed that memory, for words asso",
+        "output": "ciated with emotionally negative \ufb01lm clips, was lower than emotionally neutral, positive and arousin"
+    },
+    {
+        "input": "Therefore, clarifying whether emotional stimuli enhance recognition memory or recall memory requires",
+        "output": "further investigation, as it appears that emotional information was better remembered for recogniti"
+    },
+    {
+        "input": "In brief, greater attentional resource toward emotional pictures with large late positive waves of L",
+        "output": "PP in the posterior region, the amygdala responds to emotional stimuli independent on its valence, l"
+    },
+    {
+        "input": "Table 2 summarizes studies on the brain regions that respond to standardized stimuli as cited above,",
+        "output": "and also for pictures of emotional facial expression or Pictures of Facial A\ufb00ect , A\ufb00ective Norms f"
+    },
+    {
+        "input": "NEUROIMAGING TECHNIQUES FOR THE INVESTIGATION OF EMOTIONAL- COGNITIVE INTERACTIONS The brain regions",
+        "output": "associated with cognitive-emotional interactions can be studied with di\ufb00erent functional neuroimagi"
+    },
+    {
+        "input": "Both the amygdala and hippocampus were rigorously activated during recollection compared to familiar",
+        "output": "ity recognition, whereas no di\ufb00erences were found in the entorhinal cortex for either recollection o"
+    },
+    {
+        "input": "Moreover, a study investigates motivation e\ufb00ect on episodic retrieval by manipulating task di\ufb03culty,",
+        "output": "fMRI data reports that increased activation in the substantia nigra/VTA, MTL, dmPFC, and DLPFC when"
+    },
+    {
+        "input": "Another fMRI study reported that greater success for emotional retrieval was associated with neural",
+        "output": "activation of the bilateral amygdala, hippocampus, and parahippocampus, whereas a higher success rat"
+    },
+    {
+        "input": "More speci\ufb01cally, it appears that amygdala activation modulates both the hippocampus and visual cort",
+        "output": "ex during visual perception and enhances the selection and organization of salient information via t"
+    },
+    {
+        "input": "Although fMRI is widely used, it poses several limitations such as poor temporal resolution, expensi",
+        "output": "ve setup costs, plus the di\ufb03culty of having a subject hold still during the procedure in an electrom"
+    },
+    {
+        "input": "Furthermore, fMRI is slightly more metabolically sluggish, as BOLD signal exhibits an initial dip, w",
+        "output": "here the increase of subsequent signal is delayed by 2\u20133 s and it takes approximately 6\u201312 s to reac"
+    },
+    {
+        "input": "This means that fMRI having a coarse temporal resolution when compared with electrophysiological tec",
+        "output": "hniques and also not a great technique for visualizing subcortical regions due to metabolically slug"
+    },
+    {
+        "input": "Positron Emission Tomography Positron emission tomography is another functional neuroimaging tool th",
+        "output": "at maps CNS physiology and neural activation by measuring glucose metabolism or regional cerebral bl"
+    },
+    {
+        "input": "It thus far appears that increased rCBF in the mPFC, thalamus, hypothalamus, and midbrain associated",
+        "output": "with pleasant and unpleasant emotional processing, while unpleasant emotions are more speci\ufb01cally a"
+    },
+    {
+        "input": "Using PET scanning demonstrated that emotional information enhances visual memory recognition via in",
+        "output": "teractions between perception and memory systems, speci\ufb01cally with greater activation of the lingual"
+    },
+    {
+        "input": "Hunger stimulated increased rCBF uptake in multiple regions including the hypothalamus, insular cort",
+        "output": "ex, limbic and paralimbic regions , as well as the thalamus, caudate, precuneus, putamen, and cerebe"
+    },
+    {
+        "input": "These results imply that subcortical regions associated with emotion/motivation involved in hunger t",
+        "output": "hat signals distressing feeling for the regulation of food intake; and the PFC associated with inhib"
+    },
+    {
+        "input": "In a study of emotional self-generation using PET noted that the insular cortex, secondary somatosen",
+        "output": "sory cortex, and hypothalamus, as well as the cingulate cortex and nuclei in the brainstem\u2019s tegment"
+    },
+    {
+        "input": "Although PET scanning has a relatively good spatial resolution for both the brain and bodily functio",
+        "output": "ns, it is costly and yields lower temporal resolution than does EEG and is invasive as opposed to fM"
+    },
+    {
+        "input": "One study examined changes in EEG oscillations in the amygdala during the consolidation of emotional",
+        "output": "ly aroused memory processing that exhibited theta activity , indicating the facilitation of memory c"
+    },
+    {
+        "input": "This \ufb01nding was later supported by the revelation of increased theta activity in the right frontal a",
+        "output": "nd right temporal cortices and consequently associated with the successful encoding of new informati"
+    },
+    {
+        "input": "The theta waves are generated through an interaction between the entorhinal cortex, the Scha\ufb00er coll",
+        "output": "ateral and the pyramidal cell dendrites that result in a synaptic modi\ufb01cation underlie learning and"
+    },
+    {
+        "input": "Because of this cortical inhibition consideration, researcher introduces frontal asymmetry index by",
+        "output": "computing a ratio of di\ufb00erences in log- transformation power values between the left frontal and rig"
+    },
+    {
+        "input": "Thus, positive value indicates left frontal activity that associated with positive emotion/approach",
+        "output": "motivation and negative value indicates right frontal activity that associated with negative emotion"
+    },
+    {
+        "input": "Another study reported greater alpha activity in the left frontal region was associated with approac",
+        "output": "h motivation, while the greater alpha activity in right frontal was associated with withdrawal motiv"
+    },
+    {
+        "input": "Because of inconsistencies of valence hypothesis and motivational direction hypothesis, a study prop",
+        "output": "osed asymmetry inhibition model of alpha activity with two mechanisms of inhibitory executive contro"
+    },
+    {
+        "input": "Because of there is a strong inverse association between alpha and the fronto-parietal network, whic",
+        "output": "h increase of alpha activity associated with a decrease fronto-parietal activity that re\ufb02ects the ex"
+    },
+    {
+        "input": "Increased gamma oscillation in the neocortex and right amygdala have been reported in response to em",
+        "output": "otionally arousing pictures during learning and memory tasks undertaken by 148 right-handed female p"
+    },
+    {
+        "input": "reported increased gamma potentials in the left frontal and temporal regions in response to images h",
+        "output": "aving a negative valence, whereas increased gamma-bands in the right frontal regions were observed i"
+    },
+    {
+        "input": "Thus, we have a number of EEG investigations of left and right hemispheric activity while processing",
+        "output": "positive and negative stimuli that revealed di\ufb00erences in regional electrophysiological activation."
+    },
+    {
+        "input": "Thus, scalp EEG unable to measure activation much below cortex owing to the distortion of scalp pote",
+        "output": "ntials where di\ufb00erent volume conduction e\ufb00ects of the cortex, dura mater, skull, and scalp resulting"
+    },
+    {
+        "input": "Subsequent studies have demonstrated that the EEG spatial resolution can be improved using high-reso",
+        "output": "lution EEG with surface Laplacian estimation and cortical imaging for theoretical and experimental s"
+    },
+    {
+        "input": "The number of studies that have implemented this investigative technique are associated with task pe",
+        "output": "rformance , including exercise , cognitive workload , psychiatric disorders , emotional processing ,"
+    },
+    {
+        "input": "The results revealed that the level of subjective happiness in\ufb02uenced the pattern of left-right PFC",
+        "output": "activation during the emotion-related task, showing increased oxy-Hb in the left PFC when viewing pl"
+    },
+    {
+        "input": "Thus, several issues should take into consideration: methodological issues to assess hemispheric asy",
+        "output": "mmetry, including requires repeat measures of anterior asymmetry for at least two sessions, stimulus"
+    },
+    {
+        "input": "content should comprise both positive valence and negative valence while maintaining at a similar l",
+        "output": "evel of arousal and with a baseline resting condition, appropriate selection of reference electrode"
+    },
+    {
+        "input": "and individual di\ufb00erences, etc; and conceptual issues is related to the fact that prefrontal cortex",
+        "output": "is an anatomically and functionally heterogeneous and complex region interacts with other cortical a"
+    },
+    {
+        "input": "Studies have also shown that older adults are associated with the greater familiarity with psycholog",
+        "output": "ical stress and emotional experiences, thus causing positivity biases in emotional processing and be"
+    },
+    {
+        "input": "Emotional Stimulus Selection The selection of emotional stimuli for experimental studies is generall",
+        "output": "y divided into two streams: discrete emotional, and dimensional emotions of valence, arousal, domina"
+    },
+    {
+        "input": "If a study does not seek to assess distinct emotional states but rather involves the assessment of t",
+        "output": "wo primary dimensions of emotion , then the Positive and Negative A\ufb00ect Schedule is a recommended me"
+    },
+    {
+        "input": "Although functional neuroimaging works to identify the neural correlates of emotional states, techno",
+        "output": "logies such as deep brain stimulation and connectivity maps might provide new opportunities to seek"
+    },
+    {
+        "input": "Signi\ufb01cant emotional modulation a\ufb00ects memory consolidation in the amygdala, and emotional content a",
+        "output": "lso appears to mediate memory encoding and retrieval in the PFC, leading to slow rates of memory lap"
+    },
+    {
+        "input": "This is re\ufb02ected by the involvement of the DLPFC in WM and the role played by VLPFC in semantic proc",
+        "output": "essing, both of which have been found to enhance or impair semantic encoding task performance when e"
+    },
+    {
+        "input": "All of these \ufb01ndings suggest that PFC-MTL interactions underlie e\ufb00ective semantic memory encoding an",
+        "output": "d thus strategically mediate information processing with increased transfer to the hippocampus, cons"
+    },
+    {
+        "input": "By monitoring the emotional state of students, the utilization of scienti\ufb01cally derived knowledge of",
+        "output": "stimulus selection can be particularly useful in the identi\ufb01cation of emotional states that advance"
+    },
+    {
+        "input": "Moreover, functional neuroimaging investigations now include single and/or combined modalities that",
+        "output": "obtain complementary datasets that inform a more comprehensive overview of neuronal activity in its"
+    },
+    {
+        "input": "In addition, the identi\ufb01cation of emotional impact on learning and memory potentially has direct imp",
+        "output": "lications for healthy individuals as well as patients with psychiatric disorders such as depression,"
+    },
+    {
+        "input": "To emphasize, depression and anxiety are the two most commonly diagnosed psychiatric disorders assoc",
+        "output": "iated with learning/memory impairment and pose negative consequences that limit the total amount of"
+    },
+    {
+        "input": "Likewise, neuroscience studies report that decreased activation of the dorsal limbic as well as in t",
+        "output": "he prefrontal, premotor and parietal cortices causes attentional disturbance, while increased neural"
+    },
+    {
+        "input": "CONCLUDING REMARKS, OPEN QUESTIONS, AND FUTURE DIRECTIONS Substantial evidence has established that",
+        "output": "emotional events are remembered more clearly, accurately and for longer periods of time than are neu"
+    },
+    {
+        "input": "Emotional memory enhancement appears to involve the integration of cognitive and emotional neural ne",
+        "output": "tworks, in which activation of the amygdala enhances the processing of emotionally arousing stimuli"
+    },
+    {
+        "input": "Previous studies have primarily used standardized emotional visual, or auditory stimuli such as pict",
+        "output": "ures, words, facial expression, and \ufb01lm clips, often based on the IAPS, ANEW, and POFA databases for"
+    },
+    {
+        "input": "Furthermore, in\ufb02uences derived from emotional factors in human learning and memory remains unclear a",
+        "output": "s to whether positive emotions facilitate learning or negative emotions impair learning and vice ver"
+    },
+    {
+        "input": "Thus, several remaining questions should be addressed in future studies, including the impact of emo",
+        "output": "tion on semantic knowledge encoding and retrieval, psychological and physiological changes associate"
+    },
+    {
+        "input": "The results of studies on emotion using educational learning materials can indeed provide bene\ufb01cial",
+        "output": "information for informed designs of new educational courses that obtain more e\ufb00ective teaching and h"
+    },
+    {
+        "input": "Hence, to understand how emotion in\ufb02uence learning and memory requires understanding of an evolution",
+        "output": "ary consideration of the nested hierarchies of CNS emotional-a\ufb00ective processes as well as a large-s"
+    },
+    {
+        "input": "cale network, including the midbrain\u2019s PAG and VTA, basal ganglia , and insula, as well as diencepha",
+        "output": "lon together with the MTL, including the hippocampus as well as the entorhinal cortex, perirhinal co"
+    },
+    {
+        "input": "All cognitive activity is motivated from \u2018underneath\u2019 by basic emotional and homeostatic needs that",
+        "output": "explore environmental events for survival while facilitating secondary processes of learning and mem"
+    }
+]

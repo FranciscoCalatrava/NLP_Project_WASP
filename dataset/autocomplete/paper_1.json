@@ -1,0 +1,558 @@
+[
+    {
+        "input": "According to the arousal-mood hypothesis changes in arousal and mood when exposed to auditory stimul",
+        "output": "ation underlie the detrimental effects or improvements in cognitive performance Findings supporting"
+    },
+    {
+        "input": "or against this hypothesis are however often based on subjective ratings of arousal rather than auto",
+        "output": "nomic/physiological indices of arousal To assess the arousal-mood hypothesis we carried out a system"
+    },
+    {
+        "input": "atic review of the literature on 31 studies investigating cardiac electrodermal and pupillometry mea",
+        "output": "sures when exposed to different types of auditory stimulation  in relation to cognitive performance"
+    },
+    {
+        "input": "Our review suggests that the effects of music noise or binaural beats on cardiac electrodermal and",
+        "output": "pupillometry measures in relation to cognitive performance are either mixed or insufficient to draw"
+    },
+    {
+        "input": "conclusions Importantly the evidence for or against the arousal-mood hypothesis is at best indirect",
+        "output": "because autonomic arousal and cognitive performance are often considered separately Future research"
+    },
+    {
+        "input": "is needed to directly evaluate the effects of auditory stimulation on autonomic arousal and cogniti",
+        "output": "ve performance holistically Auditory stimulation such as music and noises has long been recognized f"
+    },
+    {
+        "input": "or its profound effects on human emotions and behaviors For example auditory stimulation can induce",
+        "output": "changes in autonomic activity the involuntary physiological responses that regulate various bodily f"
+    },
+    {
+        "input": "Furthermore associations between autonomic activity regulation emotions  and cognition have been the",
+        "output": "orized but the underlying mechanisms are not clear The potential positive impact of music on cogniti"
+    },
+    {
+        "input": "ve performance started to be researched several decades ago when music-related improvements in spa",
+        "output": "tial task performance were first reported  This positive effect is sensationalized with the term"
+    },
+    {
+        "input": "Mozart effect as Rauscher and colleagues observed improvements in cognitive functioning following exp",
+        "output": "osure to Mozart's music However others have argued that the positive effect of music on cognition is"
+    },
+    {
+        "input": "likely dependent on changes in arousal and mood after listening to the music  which is considered t",
+        "output": "o consist of three distinct systems sympathetic para-sympathetic and enteric systems  This paper fo"
+    },
+    {
+        "input": "cuses on the autonomic indices of arousal that are suggested to reflect activities in the sympathetic",
+        "output": "nervous system which predominates during fight-or-flight situations and the parasympathetic nervous system"
+    },
+    {
+        "input": "which predominates during resting states Consequently an increase in arousal may stem",
+        "output": "from heightening of sympathetic activity inhibition of parasympathetic activity or a combination"
+    },
+    {
+        "input": "of both It is thus crucial to emphasize that each index of autonomic arousal may not contribute to the",
+        "output": "regulation of arousal in the same way Many organs are innervated by both sympathetic and parasympathetic"
+    },
+    {
+        "input": "branches and this entails that the majority of the autonomic indices of arousal reflect t",
+        "output": "he dynamic relationship between the two branches Thus metrics that reflect activity in either the sy"
+    },
+    {
+        "input": "mpathetic or parasympathetic branches are considered in this paper Among the various metrics this pa",
+        "output": "per reviewed studies that investigated heart rate  heart rate variability  and pupil reactivity in r"
+    },
+    {
+        "input": "Changes in autonomic activity after listening to music have long been documented  However different",
+        "output": "types of music may have differential effects on autonomic indices For example music composed in mino"
+    },
+    {
+        "input": "Furthermore individual differences in musical preference may mediate how arousing a piece of music i",
+        "output": "s For instance the intensity of induced emotions by classical music is influenced  by the preference"
+    },
+    {
+        "input": "for the music Therefore it seems likely that higher arousal would be induced if the music was prefe",
+        "output": "rred by the individual The arousal-mood hypothesis seems plausible because the brain network/region"
+    },
+    {
+        "input": "that is activated by music especially preferred music regardless of genre or inclusion of lyrics is",
+        "output": "also involved in regulating autonomic activity However there is mixed evidence for the arousal-mood"
+    },
+    {
+        "input": "hypothesis Increased arousal without changes in cognitive performance and enhanced cognitive perfo",
+        "output": "rmance without changes in arousal have been observed Besides music other sounds can be systematicall"
+    },
+    {
+        "input": "y manipulated to produce various types of noise  and beats In this review we will focus specifically",
+        "output": "on ambient noise white noise and binaural beats White noise contains all frequencies on the power s"
+    },
+    {
+        "input": "pectrum and it uses a mix of these frequencies to create a static-like sound  While it is commonly c",
+        "output": "onceived that ambient noises  negatively affect cognitive performance white noise may have a positiv"
+    },
+    {
+        "input": "e effect on cognitive performance A potential mechanism by which white noise may benefit cognitive p",
+        "output": "erformance is neuro modulation in dopaminergic regions and their connectivity with the superior tem"
+    },
+    {
+        "input": "poral sulcus a region that plays a role in attention modulation Slight improvements in recognition",
+        "output": "memory were observed when exposed to white noise in comparison to control sounds  The improvements"
+    },
+    {
+        "input": "were positively correlated with the stronger connectivity between dopaminergic regions and the super",
+        "output": "ior temporal sulcus Critically the effect of white noise on cognitive performance also seems to fo"
+    },
+    {
+        "input": "llow an inverted U-shape as predicted by the arousal-mood hypothesis However there is a paucity of s",
+        "output": "tudies directly investigating autonomic activity concerning white noise and cognitive performance de"
+    },
+    {
+        "input": "spite the indirect evidence Binaural beats on the other hand are the auditory perception of a single",
+        "output": "tone that emerges when each ear is administered tones of similar frequencies separately  Binaural b"
+    },
+    {
+        "input": "eats are believed to stem from cognitive or neural entrainment Binaural beats are usually categorize",
+        "output": "d based on frequency  A meta-analysis reported overall positive effects of binaural beats on cogni"
+    },
+    {
+        "input": "tion However theta-frequency binaural beats might negatively impact cognition The effects of binaura",
+        "output": "l beats on cognitive performance are consistent with the arousal-mood hypothesis improvements in moo"
+    },
+    {
+        "input": "d are paralleled with more correct target detections in a vigilance task  Similar to the literature",
+        "output": "on music and white noise there is a lack of studies examining the effects of binaural beats on auton"
+    },
+    {
+        "input": "omic activity in relation to cognition The purpose of this systematic review is to critically examin",
+        "output": "e and synthesize the current literature on the impact of music and auditory stimulation  on autonomi"
+    },
+    {
+        "input": "c activity and its subsequent effects on cognitive performance By elucidating the findings in this f",
+        "output": "ield this review aims to contribute to a comprehensive understanding of the relationship between aud"
+    },
+    {
+        "input": "itory stimulations autonomic activity and cognitive performance offering valuable insights for futur",
+        "output": "e research and practical applications We pre-registered the study on and followed the most recent PR"
+    },
+    {
+        "input": "We systematically searched Pubmed Web of Knowledge/Science Ovid Medline Embase and APA PsycInfo unti",
+        "output": "l 25th April 2022, with no language/type of document restrictions The search strategy included terms"
+    },
+    {
+        "input": "associated with the following domains a) Autonomic arousal b) Music or auditory stimulation and c",
+        "output": ") Attention cognitive and executive functioning  We selected cohort or cross- sectional studies repo"
+    },
+    {
+        "input": "rting on changes in autonomic arousal associated with auditory stimulation ie music sounds or noise",
+        "output": "in people of any age without any health neurodevelopmental or psychological/psychiatric conditions"
+    },
+    {
+        "input": "Titles and abstracts of the retrieved references were screened independently by two authors  to i",
+        "output": "dentify potentially eligible studies disagreements were resolved through discussion between author"
+    },
+    {
+        "input": "s and consultation with the project supervisor  The full text of each article marked as eligible was",
+        "output": "assessed by four authors  for final inclusion and cross-checked by  The information extracted from"
+    },
+    {
+        "input": "retained studies were study design and characteristics sample characteristics  type of auditory stim",
+        "output": "ulation implemented cognitive mechanism investigated and task utilized measure of ANS functioning co"
+    },
+    {
+        "input": "llected  narrative description of main findings We report a narrative synthesis of the main findings",
+        "output": "considering the collected data made it unsuitable for a meta-analysis to be carried out Specificall"
+    },
+    {
+        "input": "y as illustrated in Table 1, when analyzing the studies included in the review we realized there was",
+        "output": "too much heterogeneity In most cases conducting a meta-analysis on a specific outcome measure and t"
+    },
+    {
+        "input": "ask/condition would have included less than two studies Out of 11,243 records initially retrieved fr",
+        "output": "om multiple sources 5334 were duplicates 5909 records were therefore screened out of which 5686 were"
+    },
+    {
+        "input": "excluded after title/abstract screening Among the 216 records assessed for eligibility at full-te",
+        "output": "xt screening 185 were further excluded  leaving 31 records that were included in the narrative synth"
+    },
+    {
+        "input": "esis Twenty-one studies investigated the effects of noise on autonomic activity in relation to cogni",
+        "output": "tive performance or attention  Specifically 12 studies investigated the effects of ambient/intermitt"
+    },
+    {
+        "input": "ent noise on cardiac indices either as the sole measure  or in combination with electrodermal indi",
+        "output": "ces  Five studies investigated the effects of white noise on cardiac indices as the sole measure two"
+    },
+    {
+        "input": "in combination with electrodermal indices and one solely on electrodermal indices One study did n",
+        "output": "ot specify the type of noise used and investigated the effects of noise on heart rate and pupil size"
+    },
+    {
+        "input": "The intensity of the noise stimulation ranged from 50 to 100 decibels  Nine studies investigated",
+        "output": "the effects of music on autonomic arousal in relation to cognitive performance or attention Eight of"
+    },
+    {
+        "input": "these investigated cardiac indices and one electrodermal indices Most of the studies  used music wi",
+        "output": "thout lyrics and one compared music with lyrics to music without lyrics and silence Only one study i"
+    },
+    {
+        "input": "nvestigated the effects of binaural beats  Nineteen studies measured the effects of noise on heart r",
+        "output": "ate Nine studies reported an increased heart rate following noise exposure of which six reported a n"
+    },
+    {
+        "input": "egative impact on cognitive performance  These six studies used ambient noise or intermittent noise",
+        "output": "Two studies reported no impact  They used white noise and ambient noise respectively One study did"
+    },
+    {
+        "input": "not report any impact on cognitive performance  Seven studies reported no significant changes in hea",
+        "output": "rt rate following noise exposure Nevertheless two out of these seven studies both implementing whi"
+    },
+    {
+        "input": "te noise  reported worse cognitive performance  Three studies reported no significant changes in co",
+        "output": "gnitive performance  Boucsein and Ottmann and Wheale and O used traffic noise whereas Conrad us"
+    },
+    {
+        "input": "ed white noise Two other studies did not report changes or the changes in cognitive performance were",
+        "output": "dependent on other factors  Two studies reported a deceleration in heart rate and worse cognitive p"
+    },
+    {
+        "input": "erformance following exposure to white noise and traffic noise  respectively Changes in heart rate a",
+        "output": "nd cognitive performance were unclear when comparing noise and no-noise conditions in one study  The"
+    },
+    {
+        "input": "re are numerous metrics for HRV and each may reflect predominantly sympathetic or parasympathetic",
+        "output": "activity or a combination of both  Seven studies measured HRV as a cardiac index for autonomic arous"
+    },
+    {
+        "input": "al Two studies reported increased low frequency/high frequency  ratio an indicator that reflects pre",
+        "output": " dominantly sympathetic activity  and poorer cognitive performance following exposure to ambient no"
+    },
+    {
+        "input": "ise  Four studies reported no significant changes in HRV Two out of these four studies reported no s",
+        "output": "ignificant changes in cognitive performance  using traffic noise and office noise respectively The"
+    },
+    {
+        "input": "exact HRV metric used in Boucsein and Ottmann was unclear but it appears to be similar to root mean",
+        "output": "square of successive RR interval differences  which reflects mainly parasympathetic activity  Krist"
+    },
+    {
+        "input": "iansen et al measured mean RR-interval length  One study reported better cognitive performance witho",
+        "output": "ut changes in RMSSD and RR-interval between quiet and intermittent noise groups  One did not report"
+    },
+    {
+        "input": "changes in RMSSD respiratory sinus arrhythmia  and cognitive performance following noise exposure  O",
+        "output": "ne study reported decreased RSA and no significant changes in cognitive performance following exposu"
+    },
+    {
+        "input": "re to workplace noise  Overall ambient noise appears to be more consistent in manifesting effects on",
+        "output": "the cardiac indices of arousal  This is often accompanied by poorer cognitive performance though so"
+    },
+    {
+        "input": "me studies also reported no changes in both cardiac indices of arousal and cognitive performance The",
+        "output": "findings on whether white noise has an impact on cardiac indices of arousal and cognitive performan"
+    },
+    {
+        "input": "ce are mixed Electrodermal activity can be quantified with two types of measures the tonic slow-acti",
+        "output": "ng skin conductance level  and the phasic fast- changing skin conductance response  Three studies co"
+    },
+    {
+        "input": "mpared SCL between noise and silence conditions  Two out of these three studies  reported increased",
+        "output": "SCL following exposure to noise whereas one study reported no changes in SCL  Keith et al reported n"
+    },
+    {
+        "input": "o changes in cognitive performance despite an increase in SCL following exposure to intermittent noi",
+        "output": "se Whereas Love et al did not find any changes in SCL and cognitive performance The other study di"
+    },
+    {
+        "input": "d not compare cognitive performance between conditions  One study reported no significant changes",
+        "output": "in SCL and cognitive performance following exposure to workplace noise  Two studies did not specif"
+    },
+    {
+        "input": "y whether they looked into the SCL or SCR and instead compared EDA between conditions Han et al foun",
+        "output": "d no changes in EDA but an improvement in cognitive performance when exposed to white noise In contr"
+    },
+    {
+        "input": "ast Boucsein and Ottmann found an increase in EDA but no changes in cognitive performance in the con",
+        "output": "dition where participants were exposed to 80 dBA of traffic noise compared to 50 dBA of traffic nois"
+    },
+    {
+        "input": "e One study compared SCR between noise and no-noise conditions The study reported no significant cha",
+        "output": "nges in SCR following exposure to white noise and changes in cognitive performance were dependent on"
+    },
+    {
+        "input": "other factors  Overall there is no clear indication of whether ambient noise or white noise affects",
+        "output": "electrodermal indices of arousal and cognitive performance Only one study investigated the effects"
+    },
+    {
+        "input": "of noise on pupil size in combination with a cardiac index in relation to cognitive performance and",
+        "output": "attention The study reported variation in pupil size but did not indicate whether it increased or de"
+    },
+    {
+        "input": "creased significantly when noise was introduced  Changes in cognitive performance were also not repo",
+        "output": "rted The evidence regarding the pupil index of autonomic arousal in relation to noise is lacking to"
+    },
+    {
+        "input": "reach any kind of conclusion Six studies measured heart rate as a cardiac index for autonomic arousa",
+        "output": "l One study reported an increased heart rate in response to emotionally touching music and an improv"
+    },
+    {
+        "input": "ement in facial memory  The same study also reported impaired memory performance in response to rain",
+        "output": "/joyful music but it was unclear if it was accompanied by significant changes in heart rate Another"
+    },
+    {
+        "input": "study reported an increased heart rate while listening to relaxing music without any changes in pe",
+        "output": "rformance on multiple cognitive tasks  Four studies reported no significant changes in heart rate fo"
+    },
+    {
+        "input": "llowing exposure to music Three out of the four studies found an improvement in cognitive performanc",
+        "output": "e despite no changes in heart rate  and one study found no significant impact on cognitive perform"
+    },
+    {
+        "input": "ance  Overall all but one study reported no effects of music on HR Moreover the characteristics of m",
+        "output": "usic varied widely across studies Even when comparisons were limited to studies that manipulated a s"
+    },
+    {
+        "input": "pecific characteristic  there were also no consistent patterns  Hence it seems that music might not",
+        "output": "have a consistent effect on HR Three studies measured HRV as a cardiac index of arousal Kirk et al f"
+    },
+    {
+        "input": "ound an increase in RMSSD and better cognitive performance following exposure to music Whereas Madja",
+        "output": "r et al found poorer reading comprehension performance despite no significant changes in HRV  As rep"
+    },
+    {
+        "input": "orted above Scholz et al found an increase in HR but no changes in any of the HRV measures  and perf",
+        "output": "ormance in cognitive tasks while listening to relaxing music Only one study reported change in HRV u"
+    },
+    {
+        "input": "Electrodermal measures One study investigated the effects of music on electrodermal indices in relat",
+        "output": "ion to cognitive performance or attention Irish et al found no significant changes in galvanic skin"
+    },
+    {
+        "input": "response  and attention following exposure to music However a longer RT was observed in the music co",
+        "output": "ndition The evidence regarding the electrodermal index of autonomic arousal in relation to music i"
+    },
+    {
+        "input": "Studies investigating the effects of binaural beats on autonomic arousal Only one study investigated",
+        "output": "the effects of binaural beats on autonomic index of arousal in relation to cognitive performance"
+    },
+    {
+        "input": "or attention Robison et al found no significant changes in pupillary response but poorer attention",
+        "output": "in response to music The evidence on whether or how binaural beats affect autonomic arousal in relat"
+    },
+    {
+        "input": "ion to cognitive performance is lacking to reach a conclusion We provided an overview of the literat",
+        "output": "ure examining the effects of auditory stimulation on different indices of autonomic and physiologica"
+    },
+    {
+        "input": "l arousal Specifically we identified 31 studies investigating the effects of noise music or binaural",
+        "output": "beats on autonomic activity and cognitive performance Most of which investigated cardiac measures T"
+    },
+    {
+        "input": "he overall findings from these studies are either heterogeneous or limited to reach a clear conclusi",
+        "output": "on Given that most studies focused on cardiac measures we will try to dissect and devote most of our"
+    },
+    {
+        "input": "discussion to cardiac measures Noise especially ambient noise appears to affect cardiac measures  q",
+        "output": "uite consistently accompanied by poorer cognitive performance However this is not the case with musi"
+    },
+    {
+        "input": "c some studies found no changes in cardiac measures but did find improvements/impairments in cogni",
+        "output": "tive performance On the contrary other studies found changes in cardiac measures but no alterations"
+    },
+    {
+        "input": "in cognitive performance in response to music Hence there seems to be a consistent relationship betw",
+        "output": "een noise arousal and cognitive performance but the relationship with music is contradicting Noise a"
+    },
+    {
+        "input": "nd music differ in their acoustic properties Noise tends to be static  or irregular  Music on the ot",
+        "output": "her hand is rhythmic with predictable patterns  In extreme cases noises that are considered environm"
+    },
+    {
+        "input": "ental pollutants have been suggested to have detrimental effects on the brain at the micro  and ma",
+        "output": "cro  levels  This could further cascade into increased risks of certain diseases  In line with this"
+    },
+    {
+        "input": "our findings suggest that short-term exposure to ambient noise  tends to increase autonomic arousal",
+        "output": "and negatively impacts cognitive performance We further speculate that consistent or intermittent ex"
+    },
+    {
+        "input": "posure to ambient noise might lead to ANS dysregulation which has been implicated as a common path",
+        "output": "way to a variety of conditions and diseases  White noise and music are not commonly regarded as envi"
+    },
+    {
+        "input": "ronmental pollutants This might explain why findings on white noise and music in relation to autonom",
+        "output": "ic arousal and cognitive performance are mixed in comparison to findings on ambient noise Functional"
+    },
+    {
+        "input": "ly music white noise and ambient noise also differ widely Ambient noise is not designed or manipulat",
+        "output": "ed to serve any meaningful purpose Conversely white noise is devised to mask ambient noise and aid s"
+    },
+    {
+        "input": "leeping Music has even wide-ranging functions such as personal  social  and practical purposes  Thes",
+        "output": "e variations may contribute to more consistent evidence for the relationship between ambient noise a"
+    },
+    {
+        "input": "rousal and cognitive performance than for white noise and music Notwithstanding the differences in f",
+        "output": "unctions all auditory stimulations could be regarded as distractions especially when the auditory st"
+    },
+    {
+        "input": "imulations is unwanted Regardless of the arousal levels it is expected that if one finds auditory",
+        "output": "stimulation distracting their performance will be poorer This might explain why preference can be a"
+    },
+    {
+        "input": "possible moderator of the effects of auditory stimulation on autonomic activity and cognitive perf",
+        "output": "ormance  Apart from differences in acoustic and functional properties individual differences in th"
+    },
+    {
+        "input": "e optimal level of arousal might also explain the mixed findings Eysenck theory of personality und",
+        "output": "erlies that at rest extroverts are likely to be under-aroused and introverts are likely to be optima"
+    },
+    {
+        "input": "lly aroused This implies that if an introvert is further stimulated by auditory stimulation it will",
+        "output": "lead to a drop in performance because the arousal would become suboptimal In contrast an extravert a"
+    },
+    {
+        "input": "t rest who is auditorily stimulated would likely show an improvement in performance because the ar",
+        "output": "ousal level would be elevated to a  optimal level Findings appear to be in favor of Eysenck theory"
+    },
+    {
+        "input": "of personality according to a mini-review  However support for Eysenck theory of personality most",
+        "output": "ly came from observations that auditory stimulation has a detrimental effect on introvertsperfor"
+    },
+    {
+        "input": "mance instead of having a positive effect on extroverts perfor mance This implies that without det",
+        "output": "ermining the baseline level of arousal as in the case of most studies findings are likely to be comp"
+    },
+    {
+        "input": "licated by individual differences in the optimal level of arousal Future studies should aim to det",
+        "output": "ermine the baseline arousal when testing whether the effects of noise or music on autonomic arousal"
+    },
+    {
+        "input": "and cognitive performance follow an inverted U-shape Task characteristics such as length and diffi",
+        "output": "culty might also determine whether auditory stimulations have an influence on autonomic arousal an"
+    },
+    {
+        "input": "d task performance  It seems unlikely that auditory stimulations would further improve or worsen tas",
+        "output": "k performance if the task is extremely easy  or difficult  Moreover auditory stimulations can intera"
+    },
+    {
+        "input": "ct with difficulty levels such that they improve performance on relatively easy tasks but impair p",
+        "output": "erformance on relatively difficult tasks  To further complicate matters task difficulty can also hav"
+    },
+    {
+        "input": "e a direct impact or have an interaction with auditory stimulations on autonomic activity Abbasi et",
+        "output": "al found that HRV differed from baseline across different workload  conditions Keith et al demonstra"
+    },
+    {
+        "input": "ted an increased HR among adolescents for an easier task  but no changes in HR for a more difficult",
+        "output": "task  with the addition of noise This implies that comparing results across studies with different t"
+    },
+    {
+        "input": "ask difficulties could be nearly impossible and could have contributed to why our review found mixed",
+        "output": "results We considered changes in sympathetic and parasympathetic activities to reflect changes in"
+    },
+    {
+        "input": "arousal in the current review and reviewed papers that shared the same view However what autonomic",
+        "output": "indices reflect differs between publications which adds to the already complex puzzle Autonomic acti"
+    },
+    {
+        "input": "vities especially sympathetically driven cardiac reactivity  have been posited to reflect task engag",
+        "output": "ement or effort mobilization  Drawing on the motivation intensity theory  and the psychophysiologi"
+    },
+    {
+        "input": "cal research of Obrist et al this approach has received substantial empirical support  Additionally",
+        "output": "a recent study found that when exposed to noise participants who were assigned stimulus color for"
+    },
+    {
+        "input": "cognitive tasks showed stronger PEP reflecting greater effort in comparison to participants who were",
+        "output": "able to personally choose stimulus color  This again echoes our discussion on the potential influen"
+    },
+    {
+        "input": "ce of preference on the relationship between auditory stimulation and task performance Specifically",
+        "output": "preference or freedom to choose the type of stimulus/ stimulation that one receives may moderate one"
+    },
+    {
+        "input": "physiological response and performance in a task Moreover there is ample evidence for the effects",
+        "output": "of musically induced mood on effort assessed as cardiac reactivity during task performance  It is t"
+    },
+    {
+        "input": "herefore important to acknowledge that changes in autonomic activity might reflect other abstract",
+        "output": "psychological constructs rather than arousal per se This opens avenues for future studies to tease a"
+    },
+    {
+        "input": "part the contribution of autonomic activity to effort and arousal which differ conceptually Relatedl",
+        "output": "y this leads to our next point on whether the relationship between autonomic activity and arousal is"
+    },
+    {
+        "input": "well established One of the approaches to testing whether such a relationship is warranted is to de",
+        "output": "monstrate that autonomic activity is related to subjective arousal  Covariation of autonomic activit"
+    },
+    {
+        "input": "y with self-reported  arousal has been reported  However this covariation does not seem to be cons",
+        "output": "istent SCL increased with arousal ratings for music but not for noises whereas HR increased with aro"
+    },
+    {
+        "input": "usal ratings for noises but not for music  This inconsistency is also reflected in the results of ou",
+        "output": "r review If objective and subjective arousal are merely different ways to measure the same construct"
+    },
+    {
+        "input": "they probably should always be related to each other However findings show that autonomic activit",
+        "output": "y and subjective arousal might not always be related This again suggests that autonomic activity mig"
+    },
+    {
+        "input": "ht not reflect arousal per se Despite the complexity and potential extraneous influences we believ",
+        "output": "e the role arousal plays in the relationship between auditory stimulation and task performance deser"
+    },
+    {
+        "input": "ves further study A logical first step would perhaps involve determining whether autonomic activity",
+        "output": "and self-reported measures reflect the same arousal which necessitates a clear definition of arous"
+    },
+    {
+        "input": "al Our review revealed a dearth of studies investigating electrodermal or pupillary measures in resp",
+        "output": "onse to noise and music in relation to cognitive performance From the meager literature that we revi"
+    },
+    {
+        "input": "ewed many of the findings suggest no effect of noise or music on electrodermal measures Similarly we",
+        "output": "found only one study that examined the effects of binaural beats on pupillary measures in relation"
+    },
+    {
+        "input": "to cognitive performance Thus we are unable to draw any conclusions with respect to these domains",
+        "output": "Moreover the imbalance in our review highlights some interesting issues such as the lack of investig"
+    },
+    {
+        "input": "ation of autonomic activity in studies using music/binaural beats to induce various levels of arousa",
+        "output": "l Nevertheless there is some evidence that noise music and binaural beats could potentially influenc"
+    },
+    {
+        "input": "e electrodermal or pupillary measures and cognitive performance independently The findings of our re",
+        "output": "view should be viewed in light of some limitations Despite not having any language and age restric"
+    },
+    {
+        "input": "tion all but one paper reviewed were in English and sampled mostly young adults Our registered inclu",
+        "output": "sion/exclusion criteria might have been  restrictive as we included only studies that either explici"
+    },
+    {
+        "input": "tly or implicitly treated autonomic activity as a proxy for arousal Studies that assessed autonomi",
+        "output": "c activity within the context of auditory stimulations and task performance  could have provided add"
+    },
+    {
+        "input": "itional insights to our research question Importantly most of the included studies did not directly",
+        "output": "examine whether autonomic activity mediates the effects of auditory stimulation on cognitive performance"
+    },
+    {
+        "input": "Rather autonomic activity and cognitive performance were often considered separately Thus our",
+        "output": "findings inherently can only provide indirect evidence for or against the arousal-mood hypothesis T"
+    },
+    {
+        "input": "o conclude findings on ambient noise tend to indirectly support the arousal-mood hypothesis there is",
+        "output": "perhaps a significant increase in autonomic arousal beyond the optimal level and a decline in cogni"
+    },
+    {
+        "input": "tive performance in response to ambient noise However the arousal-mood hypothesis is yet to be subje",
+        "output": "cted to direct examination Furthermore there is insufficient evidence to reach a conclusion with res"
+    },
+    {
+        "input": "pect to music white noise and binaural beats and their effects on autonomic activity and cognitive p",
+        "output": "erformance Hence more studies are warranted to meticulously tease apart the effects of each auditory"
+    }
+]

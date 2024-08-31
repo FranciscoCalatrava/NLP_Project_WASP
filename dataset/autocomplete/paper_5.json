@@ -1,0 +1,262 @@
+[
+    {
+        "input": "Factor-analytic evidence has led most psychologists to describe affect as a set of dimensions, such",
+        "output": "as displeasure, distress, depression, excitement, and so on, with each dimension varying independent"
+    },
+    {
+        "input": "The evidence suggests that these inter- relationships can be represented by a spatial model in which",
+        "output": "affective concepts fall in a circle in the following order: pleasure , excitement , arousal , dis.t"
+    },
+    {
+        "input": "This model was offered both as a way psychologists can represent the structure of affective experien",
+        "output": "ce, as assessed through self-report, and as a representation of the cognitive structure that laymen"
+    },
+    {
+        "input": "Supportive evidence was obtained by scaling 28 emotion- denoting adjectives in four different ways:",
+        "output": "Ross' technique for a circular ordering of variables, a multidimensional scaling procedure based on"
+    },
+    {
+        "input": "perceived similarity among the terms, a unidimensional scaling on hypothesized pleasure-displeasure",
+        "output": "and degree-of-arousal dimensions, and a principal-components analysis of 34,3 subjects' self-reports"
+    },
+    {
+        "input": "Beginning with Nowlis , investigators who have factor analyzed self-reported affective states have t",
+        "output": "ypically concluded that there are between six and twelve independent monopolar factors of affect, su"
+    },
+    {
+        "input": "Although this result was somewhat unexpected-one might have thought that sadness would be inversely",
+        "output": "related to elation, for example-most psychologists today have ac- cepted the conclusion that each su"
+    },
+    {
+        "input": "This assumption is included in Tomkins' and Izard 's theory of discrete emotions, it is included in",
+        "output": "Ekman's cross-cultural work on facial expressions of emotion, and it is the basis for the self-repor"
+    },
+    {
+        "input": "This view is illustrated by Schlosberg's proposal that emotions are organized in a circular ar- rang",
+        "output": "ement, which means that they are ade- quately represented as only two bipolar dimensions, rather tha"
+    },
+    {
+        "input": "It would be used in interpreting nonverbal evidence of emotional states, including facial expression",
+        "output": "s, tone of, voice, slips of the tongue, overt ac- tions, blushing, or any of a host of other possibl"
+    },
+    {
+        "input": "Indeed, the laymen's cognitive repre- sentation of emotion is presumably implicit in the sense that",
+        "output": "few if any could explicitly state their complete conceptual framework; it must be inferred from judg"
+    },
+    {
+        "input": "Categorization of Nonverbal Emotional Expressions The idea that people can be viewed as naive psycho",
+        "output": "logists has played an important role in personality and social psychology through the influence of K"
+    },
+    {
+        "input": "The result was a two-dimensional space, the axes of which were pleasantness-unpleasantness and a com",
+        "output": "bination of the sleep-tension and atten- tion-rejection axes, which were essentially undifferentiabl"
+    },
+    {
+        "input": "Royal and Hays 1 Shepard ., and Cliff and Young also multidimensionally scaled the judged similarity",
+        "output": "among facial expressions, and all found very similar structures, easily inter- pretable in terms of"
+    },
+    {
+        "input": "Semantic differential studies indicate that dimensions of evaluation, activity, and potency are majo",
+        "output": "r components of the meaning of natural lan- guages , and these dimensions have been interpreted as a"
+    },
+    {
+        "input": "Averill specifically studied semantic differen- tial ratings of emotion terms and supported the eval",
+        "output": "uation and activity dimen- sions, but found two dimensions in place of potency: control and depth or"
+    },
+    {
+        "input": "Russell and Mehrabian similarly found reliable and meaningful ratings of emo- tion terms on pleasure",
+        "output": "-displeasure and de- gree-of-arousal dimensions, plus a third di- mension, dominance-submissiveness,"
+    },
+    {
+        "input": "Russell specifically explored dimensions beyond pleasure and arousal and obtained dimensions interpr",
+        "output": "eted as referring to the antecedents or consequences of the emotion described rather than as ref err"
+    },
+    {
+        "input": "If there are only two dimensions in the cognitive representation of emotions, one might wonder about",
+        "output": "the ability of such a representation to define the myriad of affect terms such as anger, anxiety, d"
+    },
+    {
+        "input": "Russell and Pratt examined this question in the context of the affective qualities attributed to pla",
+        "output": "ces and found that, indeed, many affect terms were not synonymous with the pleasantness or arousal a"
+    },
+    {
+        "input": "Cognitive Structure of Affect \u00b7 These three properties of the cognitive representation of affect are",
+        "output": "summarized in Figure 1, where eight variables fall on a circle in a two-dimensional space in a mann"
+    },
+    {
+        "input": "The subject was instructed to place each word, presented in alphabetical order, into one of eight ca",
+        "output": "tegories labeled arousal, contentment, depression, distress, excitement, misery, pleasure, and sleep"
+    },
+    {
+        "input": "When the subject had completed the category-sort task, he or she was asked to place the eight catego",
+        "output": "ries-labeled aroused, contented, depressed, distressed, excited, miserable, pleased, and sleepy-into"
+    },
+    {
+        "input": "The instructions stated: \"Your task is to place the words around the edge of a circle in such a way",
+        "output": "that words opposite each other on the circle describe opposite feelings, and words closer together o"
+    },
+    {
+        "input": "Since subjects' rotations of the circle were of no interest, the slot in which a subject placed arou",
+        "output": "sed was assigned Number l, with other slots assigned Numbers 2 through 8 in the order the subject pl"
+    },
+    {
+        "input": "For each subject, a distance matrix was created by assigning a score of 1 to the dis- tance between",
+        "output": "terms placed adjacent on the circle, 2 to the distance between terms once removed, and so on until 4"
+    },
+    {
+        "input": "Nevertheless, the data given in Ta- ble 2 could also be used to estimate the order of the eight cate",
+        "output": "gories, since Ross' procedure for discovering their ordering is to rearrange them by trial and error"
+    },
+    {
+        "input": "The pattern expected for a circular order is just the one approximated in Table 2; each row should s",
+        "output": "how a sym- metric distribution, with a modal frequency in one column, the next highest frequency in"
+    },
+    {
+        "input": "To do this simply, the eight emotion categories were assigned scale coordinates based on their theor",
+        "output": "etical circular ordering shown in Figure 1: pleasure = 0\u00b0, excitement = 45 \u00b0, arousal = 90\u00b0, distres"
+    },
+    {
+        "input": "There was some worry that the results of the previous scaling were influenced by material learned in",
+        "output": "psychology courses, and therefore subjects who had never enrolled in a psy- chology course were rec"
+    },
+    {
+        "input": "Since stress values must decline or remain constant with increasing dimensionality sim- ply by fitti",
+        "output": "ng error variance, the point of diminishing returns is often taken as one sign of the appropriate nu"
+    },
+    {
+        "input": "One characterization of the obtained struc- ture is provided by the pleasure-displeasure and degree-",
+        "output": "of-arousal concepts, and the unidimensional scaling of the 28 words along these two dimensions clear"
+    },
+    {
+        "input": "\u00b7 The circular ordering of the variables pro- vides still another characterization of affec- tive sp",
+        "output": "ace, although a disk or a wheel would be a better image, since affective states of moderate intensit"
+    },
+    {
+        "input": "Structure of Self-Reported Affect As already mentioned, factor-analytic stud- ies of self-reported a",
+        "output": "ffect, beginning with Nowlis' pioneering work , have resulted in a view of affect as a set of betwee"
+    },
+    {
+        "input": "This commonly accepted representation is clearly at odds with the layman's representation of affect",
+        "output": "as presented in Figure l. Of course, it could be that the layman's is a mistaken, perhaps overly sim"
+    },
+    {
+        "input": "The new evidence favors a view much like that of Figure l. A CIRCUMPLEX MODEL OF AFFECT 11 7 1 When",
+        "output": "measures of the individual mono- polar factors have been developed, they have been found to be moder"
+    },
+    {
+        "input": "In these same studies, additional factors were found to account for only small proportions of varian",
+        "output": "ce and, more import- antly, to be interpretable as not directly describing emotions but rather cogni"
+    },
+    {
+        "input": "For example, Russell and Mehrabian's factor of dominance-submission and Svensson's factor of social",
+        "output": "orientation can be interpreted as referring to perceived aspects of the antecedents or consequences"
+    },
+    {
+        "input": "Plutchik proposed a circular ordering of emotions, and Schaefer and Plut- chik showed that the affec",
+        "output": "tive states associated with various psychiatric diagnostic categories form a circular order when the"
+    },
+    {
+        "input": "That is, self-report data can be characterized by the same three properties that are geo- metrically",
+        "output": "represented in that model: affec- tive states falling in a circular order in a two- dimensional bip"
+    },
+    {
+        "input": "Since response style variance of this sort can influence the correlation matrix and factor structure",
+        "output": ", it was minimized in the present data by ipsatization: All subjects' data were thus equated with re"
+    },
+    {
+        "input": "Because of the heterogeneity within the sample of affect terms, includinf many antonym pairs, a gene",
+        "output": "ral factor in these data could only be interpret.ed as individual differences in response to the rat"
+    },
+    {
+        "input": "Results A first test of the proposed structure of affect was carried out by placing the 28 affect va",
+        "output": "riables into the two-dimensional space defined by Mehrabian and Russell's scales of pleasure-displea"
+    },
+    {
+        "input": "The reliability of these single- item scales cannot be estimated directly from the data available, b",
+        "output": "ut some indication comes from examining the maximum correlation of each item with the other 27 items"
+    },
+    {
+        "input": "Another indication of the reliability of single items for this sample of subjects can be seen in the",
+        "output": "reliability of one-item versions of the Mehrabian and Russell pleasure and arousal scales, as estim"
+    },
+    {
+        "input": "The fit of data to a circumplex model is generally tested by examining a plot of the variables as fu",
+        "output": "nctions of their loadings on two principal components 1 While this article was under editorial revie"
+    },
+    {
+        "input": "Because of the earlier evidence of a correlation between the pleasure and arousal axes in these data",
+        "output": ", an oblique rotation of the two components was used, but the resulting correlation between componen"
+    },
+    {
+        "input": "Besides these first two principal components, there were three additional components with eigenvalue",
+        "output": "s greater than unity, although a scree test showed a clear elbow at two com- ponents and the next th"
+    },
+    {
+        "input": "Each item was assigned to the one component on which it loaded the highest, and component scores wer",
+        "output": "e then obtained by taking un- weighted algebraic means on the set of items constituting each compone"
+    },
+    {
+        "input": "To clarify the structure, reflections of the first two com- ponents are also shown and labeled, sinc",
+        "output": "e both these components were clearly bipolar and thus could just as reasonably have been scored in t"
+    },
+    {
+        "input": "Russell and Mehrabian found that a dominance- submission dimension accounted for a smal1 but signifi",
+        "output": "cant proportion of variance in af- fect scales beyond that accounted for by pleasure and arousal dim"
+    },
+    {
+        "input": "Linear combination rules are remarkably robust in approximating various combination rules , but the",
+        "output": "process by which a person actually arrives at a rating for each affect term might not be a linear co"
+    },
+    {
+        "input": "Suggestive evidence in this direction comes from a study by Russell and Mehrabian , in which some af",
+        "output": "fective states were found to be definable not as linear combina- tions but as multiplicative combina"
+    },
+    {
+        "input": "tions of the pleasure and arousal dimensions and , from a study by Bush in which it was found that s",
+        "output": "ome subjects appear to use a linear combination rule but that others use a multiplicative combinatio"
+    },
+    {
+        "input": "In a factor-analytic study of self-report data, the correlation co- efficient measures this degree o",
+        "output": "f conceptual overlap, since a subject who checks happy also typically checks delighted not because t"
+    },
+    {
+        "input": "Pleasure and arousal, even if conceptually distinct, will be positively correlated if the affective",
+        "output": "states in which these two compo- nents occur with equal sign, such as delighted or bored , occur mor"
+    },
+    {
+        "input": "These differences in the frequency of various affective states are reflected in the correla- tions o",
+        "output": "bserved among measures of those states and in turn are reflected in the factor struc- ture of those"
+    },
+    {
+        "input": "In short, exploring affect through self- report data from a large sample of subjects wiU inevitably",
+        "output": "result in some variance unique to that methodology, just as the judgment tasks employed in the first"
+    },
+    {
+        "input": "General Discussion Up to now I have maintained the com- monly accepted distinction between results f",
+        "output": "rom introspective self-report data on affec- tive experience and results from judgment data on, for"
+    },
+    {
+        "input": "Analysis of self-report data is generally considered to reveal the structure of actual affective exp",
+        "output": "erience, whereas analysis of judgment data is generally considered to yield merely semantic structur"
+    },
+    {
+        "input": "In the domain of personality traits, a controversy arose when a similar correspondence was found bet",
+        "output": "ween the struc- ture derived from self-ratings of personality traits and the structure derived from"
+    },
+    {
+        "input": "Although some psychologists claim that the structure yielded by the two types of data represents the",
+        "output": "actual relationships among personality traits , others claim that the struc- ture is \"primarily an"
+    },
+    {
+        "input": "In the domain of affect, I would like to argue that the structure in common to both types of data is",
+        "output": "a model both for the layman's cognitive structure for affect and for the actual structure of affect"
+    },
+    {
+        "input": "These views include James' argument that we rely on internal feedback from visceral stirrings, Bern'",
+        "output": "s argument that we rely on our own external behavior, ~chachter and Singer's argu- ment that we rely"
+    },
+    {
+        "input": "If this is the case, then the cognitive structure that is uti- lized in interpreting the meaning of",
+        "output": "verbal messages or of facial expressions from others is the same structure utilized in the process o"
+    }
+]
