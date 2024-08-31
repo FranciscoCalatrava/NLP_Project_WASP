@@ -14,8 +14,8 @@ To install the requirements, create your own virtual environment using Python 3.
 
 If you experience issues with the package `essentia-tensorflow`, such as:
 
-"from essentia.standard import MonoLoader, TensorflowPredict2D, TensorflowPredictMusiCNN,TensorflowPredictEffnetDiscogs
-ImportError: cannot import name 'TensorflowPredict2D' from 'essentia.standard' (./music_sentiment_prediction/nlp/lib/python3.10/site-packages/essentia/standard.py)"
+`from essentia.standard import MonoLoader, TensorflowPredict2D, TensorflowPredictMusiCNN,TensorflowPredictEffnetDiscogs
+ImportError: cannot import name 'TensorflowPredict2D' from 'essentia.standard' (./music_sentiment_prediction/nlp/lib/python3.10/site-packages/essentia/standard.py)`
 
 Perform a pip uninstall of both `essentia` and `essentia-tensorflow`, and then reinstall only `essentia-tensorflow`. This may resolve potential compatibility issues.
 ## Models
@@ -37,9 +37,9 @@ The models are organized in the following directories:
 
 Models can be downloaded from the Essentia webpage:
 
-deam: https://essentia.upf.edu/models/classification-heads/deam/
-emomusic: https://essentia.upf.edu/models/classification-heads/emomusic/
-muse: https://essentia.upf.edu/models/classification-heads/muse/
+- deam: https://essentia.upf.edu/models/classification-heads/deam/
+- emomusic: https://essentia.upf.edu/models/classification-heads/emomusic/
+- muse: https://essentia.upf.edu/models/classification-heads/muse/
 
 ### Embeddings models for the classification Arousal Valenve for audio
 
@@ -59,9 +59,9 @@ The folders are structured as follows:
 
 Models can be downloaded from the Essentia webpage:
 
-deam: https://essentia.upf.edu/models/classification-heads/deam/
-emomusic: https://essentia.upf.edu/models/classification-heads/emomusic/
-muse: https://essentia.upf.edu/models/classification-heads/muse/
+- deam: https://essentia.upf.edu/models/classification-heads/deam/
+- emomusic: https://essentia.upf.edu/models/classification-heads/emomusic/
+- muse: https://essentia.upf.edu/models/classification-heads/muse/
 
 ### Genre models from essentia
 
