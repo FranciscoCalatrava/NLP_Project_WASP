@@ -3,19 +3,15 @@ import pandas as pd
 import numpy as np
 import pretty_midi
 import numpy as np
-from sklearn.svm import SVC
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler
-from sklearn.pipeline import make_pipeline
-from sklearn.pipeline import Pipeline
-from sklearn.model_selection import GridSearchCV
 import sys
+import os
+import h5py
 
 
 
 def get_data(path):
     data = pd.read_csv(path)
-    absolute_path = '/home/calatrava/Documents/PhD/Courses/DeepLearningNLP/final_project/NLP_Project_WASP/dataset/vgmidi/'
+    absolute_path = f'{os.getcwd()}/dataset/vgmidi/normal/'
     data['midi'] = data['midi'].apply(lambda x: absolute_path + x)
     return data
 
@@ -67,6 +63,21 @@ def encode_labels(arousal, valence):
         return 3
 
 
+def get_name(name):
+    return name.split('/')[-1]
+
+
+def save_features(path, final):
+    with h5py.File(path+ f"vgmidi_features.h5", 'w') as hf:
+        for idx, name in enumerate(final.keys()) :
+            grp = hf.create_group(name)
+            for feature_name in final[name].keys():
+                # print(f"The file is {name}")
+                # print(f"The feature is {feature_name}")
+                # print(f"The data is {final[name][feature_name]}")
+                sub_grp = grp.create_group(feature_name)
+                sub_grp.create_dataset('data', data=final[name][feature_name])
+
 
 
 if __name__ == "__main__":
@@ -79,6 +90,15 @@ if __name__ == "__main__":
                                     'note_density', 'average_velocity', 'velocity_changes', 'average_melodic_interval'])
     
     features_df['label'] = data.apply(lambda row: encode_labels(row['arousal'], row['valence']), axis=1)
+    features_df['name'] = data.apply(lambda row: get_name(row['midi']), axis=1 )
+    features_df.set_index('name', inplace = True)
+    features = features_df.to_dict(orient='index')
+
+    save_features(f'{os.getcwd()}/dataset/vgmidi/prepared/', features)
+
+    
+
+    
 
 
     
