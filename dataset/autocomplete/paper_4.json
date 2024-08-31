@@ -1,0 +1,394 @@
+[
+    {
+        "input": "Affective computing conjoins the research topics of emotion recognition and sentiment analysis, and",
+        "output": "can be realized with unimodal or multimodal data, consisting primarily of physical information and p"
+    },
+    {
+        "input": "Physical-based affect recognition caters to more re searchers due to the availability of multiple pu",
+        "output": "blic databases, but it is challenging to reveal one\u2019s inner emotion hidden purposefully from facial"
+    },
+    {
+        "input": "Finally, we discuss some critical aspects of affective computing and its applications and conclude t",
+        "output": "his review by pointing out some of the most promising future directions, such as the establishment o"
+    },
+    {
+        "input": "Affective computing is an umbrella term for human emotion, senti ment, and feelings believe that aff",
+        "output": "ective computing is the key to pro moting and advancing the development of human-centric AI and huma"
+    },
+    {
+        "input": "emotions or dimensional emotions) , and mostly focuses on visual emotion recognition , audio/speech",
+        "output": "emotion recognition , and physiological emotion recognition was designed to predict the sentiment an"
+    },
+    {
+        "input": "Thus, EEG-based or ECG-based emotion recognition can generate more objective predictions in real tim",
+        "output": "e and provide reliable features of emotional states , just like the brain validating events relies o"
+    },
+    {
+        "input": "For facial expression recognition , existing studies have provided a brief review of FER , facial mi",
+        "output": "cro-expressions analysis discussed multimodal databases, feature extraction based on physical signal"
+    },
+    {
+        "input": "Several issues have not been thoroughly addressed in previous re views: 1) Existing reviews take a s",
+        "output": "pecialist view and lack a broader perspective, for instance when classifying the various methods and"
+    },
+    {
+        "input": "ad vances, some reviews do not consider DL-based affect recognition or multimodal affective analysi",
+        "output": "s; 2) Existing reviews do not provide a clear picture about the performance of state-of-the-art meth"
+    },
+    {
+        "input": "As the most important contribu tion of our review, we aim to cover different aspects of affective co",
+        "output": "mputing by introducing a series of research methods and results as well as discussions and future wo"
+    },
+    {
+        "input": "To sum up, the major contributions of this paper are multi-fold: 1) To the best of our knowledge, th",
+        "output": "is is the first review that categorizes affective computing into two broad classes, i.e., unimodal a"
+    },
+    {
+        "input": "2) In the retrospect of 20 review papers released between 2017 and 2020, we present a systematic rev",
+        "output": "iew of more than 380 research papers published in the past 20 years in leading conferences and journ"
+    },
+    {
+        "input": "3) We provide a comprehensive taxonomy of state-of-the-art affective computing methods from the pers",
+        "output": "pective of either ML- based methods or DL-based techniques and consider how the different affective"
+    },
+    {
+        "input": "5) Finally, we discuss the effects of unimodal, multimodal, models as well as some potential factors",
+        "output": "on affective computing and some real- life applications of that, and further indicate future resear"
+    },
+    {
+        "input": "Ekman\u2019s basic emotion model and its variants : 1) Basic emotions must come from human instinct; 2) P",
+        "output": "eople can produce the same basic emotions when facing the same situation; 3) People express the same"
+    },
+    {
+        "input": "However, different cultural backgrounds may have different interpretations of basic emo tions, and d",
+        "output": "ifferent basic emotions can be mixed to produce complex or compound emotions involves eight basic em"
+    },
+    {
+        "input": "This wheel model is also referred to as the componential model, where the stronger emotions occupy t",
+        "output": "he centre, while the weaker emotions occupy the extremes, depending on their relative intensity leve"
+    },
+    {
+        "input": "Similar to Mehrabian s three-dimensional space theory of emotion , the PAD model has three-dimension",
+        "output": "al spaces: 1) Pleasure dimension, representing the magnitude of human joy from distress extreme to e"
+    },
+    {
+        "input": "cstasies; 2) Arousal dimension, measuring physiological activity and psychological alertness level;",
+        "output": "3) Dominance dimension, expressing the feeling of influencing the surrounding environment and other"
+    },
+    {
+        "input": "The first quadrant, activation arousal with positive valence, shows the feelings associated with hap",
+        "output": "py emotions; And the third quadrant, with low arousal and negative valence, is associated with sad e"
+    },
+    {
+        "input": "Each subject took part in five tests, each of which contains short video recordings with stereo soun",
+        "output": "d, and related to one of the five emotional tendencies: anger, sadness, happiness, fear, and neutral"
+    },
+    {
+        "input": "Binghamton University 3D Facial Expression released in 2014, is a well-annotated 3D video database c",
+        "output": "onsisting of spontaneous facial ex pressions, elicited from 41 participants , by well-validated emot"
+    },
+    {
+        "input": "Spontaneous Micro-Facial Movement is a firstly public large-scale and unconstrained database that co",
+        "output": "ntains 35,887 grey images with 48 \u00d7 48 pixels, collected automatically through the Google image sear"
+    },
+    {
+        "input": "Expression in-the-Wild contains over 1,000, 000 facial images, of which 450,000 images are manually",
+        "output": "annotated as one of eight discrete expressions , and the dimensional intensity of valence and arousa"
+    },
+    {
+        "input": "Although studies in emotion recognition focused mainly on facial expressions, a growing number of re",
+        "output": "searchers in affective neuroscience demonstrates the importance of the full body for unconscious emo"
+    },
+    {
+        "input": "Physiological databases Physiological signals are not affected by social masking compared to textual",
+        "output": ", audio, and visual emotion signals, and thus are more objective and reliable for emotion recognitio"
+    },
+    {
+        "input": "Within each session, each subject was exposed to the same sequence of fifteen movie excerpts, each o",
+        "output": "ne approximately four-minute-long, to induce three kinds of emotions: positive, neutral, and negativ"
+    },
+    {
+        "input": "Interactive Emotional Dyadic Motion Capture contains detailed full-body motion visual-audio and text",
+        "output": "description data collected from 16 actors, during their affective dyadic interactions ranging from"
+    },
+    {
+        "input": "DECAF contains a detailed analysis of the correlations between participants\u2019 self-assessments and th",
+        "output": "eir physiological re sponses, single-trial classification results for valence, arousal and dominance"
+    },
+    {
+        "input": "To identify subtle sentiment or emotions expressed explicitly or implicitly from the user-generated",
+        "output": "data, textual sentiment analysis was introduced often rely on the process known as \u201cfeature engineer"
+    },
+    {
+        "input": "CNN-based methods have been applied to different levels of TSA including document-level , and aspect",
+        "output": "-level proposed a framework of sentence-level sentiment classification based on the semantic lexical"
+    },
+    {
+        "input": "To establish long-range dependencies in documents, Johnson and Zhang proposed a word-level deep pyra",
+        "output": "mid CNN model, which stacked alternately the convolutional layer and the max-pooling downsampling la"
+    },
+    {
+        "input": "For aspect-level sentiment analysis, Huang and Carley also designed a novel generative approach, con",
+        "output": "textual Bi-LSTM with a lan guage model , which changes the structure of Bi-LSTM to learn the word\u2019s"
+    },
+    {
+        "input": "proposed an attention-based CNN-RNN deep model , which utilized bidirectional LSTM and GRU layers to",
+        "output": "capture temporal contexts and apply the attention operations on the discriminative embeddings of ou"
+    },
+    {
+        "input": "proposed an adversarial deep aver aging network to realize cross-lingual sentiment analysis by trans",
+        "output": "ferring the knowledge learned from labelled data on a resource-rich source language to low-resource"
+    },
+    {
+        "input": "Extreme learning machine , a single-hidden layer neural network, was regarded as the utterance-level",
+        "output": "classifier proposed an end-to-end model comprising of CNNs and LSTM networks, which show that a dee"
+    },
+    {
+        "input": "The feature post- processing can be divided into two types: feature fusion and feature selection ) u",
+        "output": "tilized 52 facial landmark points , which represent features of geometric positions and angles, for"
+    },
+    {
+        "input": "As the geometry of different local structures with distortions has unstable shape representations, t",
+        "output": "he local prominent directional pattern descriptor of FACS by using the per manent and transient faci"
+    },
+    {
+        "input": "al features extracted by the Gabor wavelet, SIFT and local binary pattern ) proposed a framework of",
+        "output": "low-resolution FER based on image filter-based subspace learning , including deriving discriminative"
+    },
+    {
+        "input": "The local binary pattern from three orthogonal planes designed two kinds of feature extractors and s",
+        "output": "uper-compact LBP-three mean orthogonal planes ) based on the improved LBP-TOP to preserve the essent"
+    },
+    {
+        "input": "It has been proved to fuse different types of geometry-based features and appearance-based features",
+        "output": "to enhance the robustness of FER proposed the aggregating local spatiotemporal patterns , which adop"
+    },
+    {
+        "input": "Although more 3D/4D features firstly transformed the 3D faces into 2D planes using conformal mapping",
+        "output": ", and then proposed the differential evolution to select the optimal facial feature set and SVM clas"
+    },
+    {
+        "input": "Different from the spatial division with fixed grid, a hierarchical spatial division scheme ) was pr",
+        "output": "oposed to generate multiple types of gradually denser grids and designed kernelized group sparse lea"
+    },
+    {
+        "input": "The backbone networks of DL-based FER are mostly derived from well-known pre-trained ConvNets such a",
+        "output": "s VGG proposed a de-expression residue learning to recognize facial expressions by extracting expres"
+    },
+    {
+        "input": "For FMER, the transform-learning based model is pre-trained on the ImageNet and several popular macr",
+        "output": "o-expression databases with the original residual network ) proposed a novel knowledge transfer tech"
+    },
+    {
+        "input": "Specifically, the RML module combined inception-structured convolutional groups with an expression c",
+        "output": "lassification branch for the final emotion recognition by minimizing both the cross-entropy loss and"
+    },
+    {
+        "input": "To highlight the most helpful information of facial images, various attention mechanisms proposed an",
+        "output": "attention-based salient expressional region descriptor to locate the most expression-related region"
+    },
+    {
+        "input": "Except for the efficient network architectures with attention net works or loss functions , there is",
+        "output": "a fast and light manifold con volutional neural network based on the multi-scale encoding strategy"
+    },
+    {
+        "input": "Be sides, the C3D can be combined with the global attention module to represent Eulerian motion feat",
+        "output": "ure maps generated based on the Eulerian video magnification utilized a 3D CNN to extract AU feature"
+    },
+    {
+        "input": "In contrast, spatial characteristics of the representative expression-state frames can be learned wi",
+        "output": "th CNNs pro posed a deep spatiotemporal recurrent convolutional network with a balanced loss that ca"
+    },
+    {
+        "input": "proposed a deep evolutional spatial-temporal network, which consists of a part-based hierarchical bi",
+        "output": "directional recurrent neural network and a multi-signal convolutional neural network , for analyzing"
+    },
+    {
+        "input": "As GANs can generate synthetic facial expression images under different poses and views, GAN-based m",
+        "output": "odels are used for pose/view-invariant FER proposed the GAN using AE structure to generate more faci"
+    },
+    {
+        "input": "al images with different expressions under arbitrary poses ) and proposed a semantic neighbourhood a",
+        "output": "ware network, which formulated the semantic perturbation based on the asymmetric AE with additive no"
+    },
+    {
+        "input": "investigated a framework of facial micro-expression recognition and synthesis based on the identity-",
+        "output": "aware and capsule-enhanced GAN , which consisted of an AE-based generator for identity-aware express"
+    },
+    {
+        "input": "In existing ML-based EBGR systems, the input is an abstraction of the human body gestures through an",
+        "output": "ensemble body parts or a kinematic model utilized skeletal joint features from a Kinect v2 sensor,"
+    },
+    {
+        "input": "5, typically includes the following five aspects: 1) Stimulating subjects\u2019 emotions with images, mus",
+        "output": "ic and videos; 2) Recording physi ological signals that mainly include EEG, skin conductance, RESP,"
+    },
+    {
+        "input": "heart rate, EMG, and ECG; 3) Extracting features through physiological signals pre-processing, featu",
+        "output": "re analysis, feature selection and reduction; 4) Training the classification model such as SVM, KNN,"
+    },
+    {
+        "input": "Among the above physiological emotion signals, EEG or ECG can provide simple, objective, and reliabl",
+        "output": "e data for identifying emotions depends on how to prop erly design feature extraction, feature dimen"
+    },
+    {
+        "input": "The fast Fourier transform analysis is often used to transform the EEG into the power spectrum used",
+        "output": "the FFT analysis for feature extraction and the Pearson correlation co efficient for feature selecti"
+    },
+    {
+        "input": "successively designed a novel transfer recursive feature elimination investigated an alternating dir",
+        "output": "ection method of multipliers ADMM-based sparse group lasso , with hierarchical splitting for recogni"
+    },
+    {
+        "input": "designed a firefly integrated optimization algorithm to realize the optimal selection of the feature",
+        "output": "s subset and the classifier, without stagnating in the local opti mum for the automatic emotion reco"
+    },
+    {
+        "input": "The affective computing team directed by Prof. Zheng from Southeast University, China, has proposed",
+        "output": "various EEG-based emotion recognition networks such as bi-hemispheres domain adversarial neural netw"
+    },
+    {
+        "input": "The RACNN achieves prominent results with average accu racies of 96.88% and 96.28% on DEAP first con",
+        "output": "structed a music-induced ECG emotion database, and then developed a nine-stage framework for automa"
+    },
+    {
+        "input": "tic ECG-based emotion recognition, including 1) Signal preprocessing; 2) R-wave detection; 3) Window",
+        "output": "ing ECG recording; 4) Noisy epoch rejection; 5) Feature extraction based on the time-, and frequency"
+    },
+    {
+        "input": "-domain and nonlinear analysis; 6) Feature normalization; 7) Feature selection using sequential forw",
+        "output": "ard floating selection-kernel-based class separability; 8) Feature reduction based on the generalize"
+    },
+    {
+        "input": "applied FFT, Discrete Wavelet Transform , and Hilbert Huang Transform to transform ECG signals into",
+        "output": "frequency-domain fea tures, and then utilized PCA and Tabu search to select key features in low-, hi"
+    },
+    {
+        "input": "We have reviewed the relevant studies of unimodal feature extrac tion and emotion classification, in",
+        "output": "this section we then describe how to integrate multiple unimodal signals to develop a framework of"
+    },
+    {
+        "input": "Therefore, we categorize multimodal affective analysis into multi-physical modality fusion for affec",
+        "output": "tive analysis, multi-physiological modality fusion for affective analysis, and physical-physiologica"
+    },
+    {
+        "input": "6 illustrates prominent examples of using different fusion strategies: 1 Feature-level fusion combin",
+        "output": "es features extracted from the multi modal inputs to form one general feature vector, which is then"
+    },
+    {
+        "input": "3 Model-level fusion discovers the correlation properties between features extracted from different",
+        "output": "modalities and uses or designs a fusion model with relaxed and smooth types such as HMM and two- sta"
+    },
+    {
+        "input": "In light of common manners of modality combinations, we catego rize multi-physical modalities fusion",
+        "output": "for affective analysis into visual- audio emotion recognition ) proposed ML-based visual-audio emot"
+    },
+    {
+        "input": "fused acoustic-prosodic in formation based on a meta decision tree with multiple base classifiers ,",
+        "output": "and employed a maximum en tropy model to establish the relationship between emotional states and emo"
+    },
+    {
+        "input": "proposed the multi plicative multimodal emotion recognition : firstly, feature vec tors are extracte",
+        "output": "d from the raw three modalities; then, these features are transferred into modality check step to re"
+    },
+    {
+        "input": "tain the effective features and discard the ineffectual ones which are used to regenerate proxy feat",
+        "output": "ure vectors; finally, selected features are fused to predict six emotions based on the multiplicativ"
+    },
+    {
+        "input": "Different from language-independent approaches for English or German sentiment analysis, Chinese sen",
+        "output": "timent analysis not only understands symbols with explicit meaning, but also captures phonemic ortho"
+    },
+    {
+        "input": "proposed reinforcement learning based disambiguate intonation for sentiment analysis which consists",
+        "output": "of policy network, embedding lookup, loss computation, and feature-level fusion of three modalities."
+    },
+    {
+        "input": "Due to the unequal importance of three modalities, a context-level inter-modal attention module is d",
+        "output": "esigned to learn the joint association be tween textual-audio-visual features of utterances captured"
+    },
+    {
+        "input": "With the enhancement and refinement of wearable technologies, automatic affective analysis based on",
+        "output": "multi-physiological modalities has attracted more attention collected multi-physiological emotion si"
+    },
+    {
+        "input": "Since the change of human emotions is a complicated psycho- physiological activity, the research on",
+        "output": "affective analysis is related to many cues proposed an efficient end-to-end framework of EDA-music f"
+    },
+    {
+        "input": "Specially, the RTCAN consists of shallow feature extraction, residual feature extraction, the attent",
+        "output": "ion module stacked by a signal channel attention module, and a residual non-local temporal attention"
+    },
+    {
+        "input": "It achieved outstanding performances in AMIGOS, DEAP and PMEmo ) designed a multi modal deep belief",
+        "output": "network for fusing and optimizing multiple psycho-physiological features, a bimodal DBN for represen"
+    },
+    {
+        "input": "In this section, we mainly discuss the following aspects: 1) Effects of different signals on unimoda",
+        "output": "l affect recognition ; 2) Effects of modality combinations and fusion strategies on multi modal affe"
+    },
+    {
+        "input": "The visual modality may also be integrated with multimodal physiological signals for visual-physiolo",
+        "output": "gical affective analysis consists of pre-processing of raw signals, hand-crafted feature extractor ,"
+    },
+    {
+        "input": "Although various types of hand-crafted fea tures have been designed for different modalities, ML-bas",
+        "output": "ed techniques for affective analysis are hard to be reused across similar problems on account of the"
+    },
+    {
+        "input": "Although the representation of the natural affective states has no consensus, most affective analyse",
+        "output": "s are trained and evaluated based on two types of emotion models: discrete models and dimensional mo"
+    },
+    {
+        "input": "The weighted average recall/F1-score and the unweighted average recall/F1-score are best suited for",
+        "output": "the classification performance of visual, audio or multimodal affective analysis , making it a promi"
+    },
+    {
+        "input": "This review has comprehensively surveyed more than 400 papers, including an overview of the recent r",
+        "output": "eviews on affective computing in Section 2, and built the taxonomy of affective computing with repre"
+    },
+    {
+        "input": "In Section 5 and Section 6, we introduced recent advances of affec tive computing, which are mainly",
+        "output": "grouped into unimodal affect recog nition and multimodal affective analysis, and further divide them"
+    },
+    {
+        "input": "In contrast, DL-based unimodal affect recogni tion further improves the ability of the feature repre",
+        "output": "sentation and classification by designing deeper network architectures or task-specific network modu"
+    },
+    {
+        "input": "Generally, in addition to employing different strategies , the multimodal affective analysis is divi",
+        "output": "ded into multi-physical approaches , multi-physiological approaches, and physical-physiological appr"
+    },
+    {
+        "input": "In Section 7, we discuss some important issues related to affective computing including effects of t",
+        "output": "extual, audio, visual, or physiological signals on unimodal affect recognition, effects of modality"
+    },
+    {
+        "input": "combinations and fusion strategies on multimodal affective analysis, the effects of ML- based and DL",
+        "output": "-based models on affective computing, effects of some potential factors on affective computing, and"
+    },
+    {
+        "input": "Although affective computing systems using either unimodal or multimodal data have made significant",
+        "output": "breakthroughs, there are only a few robust and effective algorithms to predict emotion and recognize"
+    },
+    {
+        "input": "Hence, we would like to conclude this review with many important recommendations for future research",
+        "output": "in affective computing: 1) It will be instrumental to develop new and more extended baseline databa"
+    },
+    {
+        "input": "2) There are some challenging tasks of affective analysis to be solved including FER under partial o",
+        "output": "cclusion or fake emotion expression, physiological emotion recognition based on various complex sign"
+    },
+    {
+        "input": "3) There is significant space for improving fusion strategies, particu larly with rule-based or stat",
+        "output": "istic-based knowledge, to implement a mutual fusion of different modalities that can consider the ro"
+    },
+    {
+        "input": "4) Zero/few-shot learning or unsupervised learning methods need to be further explored, particularly",
+        "output": "thanks to their potential to enhance the robustness and stability of affective analysis under limit"
+    },
+    {
+        "input": "Advances presented in this review make it possible to conceive robots equipped with emotional intell",
+        "output": "igence, which can appropriately imitate and promptly respond to mankind affect and the surrounding e"
+    }
+]
