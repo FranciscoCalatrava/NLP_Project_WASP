@@ -1,4 +1,6 @@
-dataset/
+dataset/*
 DLNLP/*
 nlp/*
-
+genre_models/*
+mood_models/*
+FluidR3_GM.sf2

@@ -35,17 +35,17 @@ def get_models(dataset, type):
 
 def get_arousal_valence(embedding_model, model, data, dataset, type):
     labels = {}
-    path = "dataset/midicap/midicaps/prepared/"
     for a in data.keys():
         predictions = model(embedding_model(data[a]))
         results = np.mean(predictions.squeeze(), axis=0)
         results = (results - 5) / 4
         labels[a] = results
 
-    with h5py.File(path+f"labels/labels_{dataset}_{type}.h5", 'w') as hf:
-        for name in labels.keys() :
-                    grp = hf.create_group(name)
-                    grp.create_dataset('data', data=labels[name])
+    # with h5py.File(path+f"labels/labels_{dataset}_{type}.h5", 'w') as hf:
+    #     for name in labels.keys() :
+    #                 grp = hf.create_group(name)
+    #                 grp.create_dataset('data', data=labels[name])
+    return labels
 
 
 

@@ -28,30 +28,16 @@ def get_paths(samples,dataset_path):
     return final_list_paths
 
 
-def create_wav_dataset(paths, soundfont_path):
-    elements = []
+def create_wav_dataset(a, soundfont_path):
     fs = FluidSynth(soundfont_path)
+    name = a.split("/")[-1]
+    fs.midi_to_audio(a, f"{os.getcwd()}/dataset/midicap/prepared/{name[:-4]}.wav")
+    return f"{os.getcwd()}/dataset/midicap/prepared/{name[:-4]}.wav"
 
-    for a in paths:
-        name = a.split("/")[-1]
-        fs.midi_to_audio(a, f"dataset/midicap/midicaps/prepared/{name[:-4]}.wav")
 
-
-def create_embeddings():
-    path = "dataset/midicap/midicaps/prepared/"
-    name_wav = [f for f in os.listdir(path) if os.path.isfile(os.path.join(path, f))]
-    elements = []
-
-    # print(name_wav)
-    
-    for a in name_wav:
-        audio = MonoLoader(filename = path+a, sampleRate=16000, resampleQuality=4)()
-        elements.append(audio)
-
-    with h5py.File(path+"embeddings/embedding.h5", 'w') as hf:
-        for name, data in zip(name_wav,elements):
-                    grp = hf.create_group(name)
-                    grp.create_dataset('data', data=data)
+def create_embeddings(path):
+    audio = MonoLoader(filename = path, sampleRate=16000, resampleQuality=4)()
+    return audio
     
 
 

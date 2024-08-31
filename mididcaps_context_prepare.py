@@ -62,7 +62,6 @@ def get_ground_truth_arousal_valence(embeddings):
     
     for a in embeddings.keys():
         auxiliar = []
-
         for b in datasets:
            auxiliar.append(ground_truth[b][a])
         final_ground_truth[a] = {'arousal_valence_ground_truth': np.mean(np.vstack(auxiliar), axis = 0)}
@@ -279,12 +278,13 @@ def save_file(path, final,samples):
                 sub_grp = grp.create_group(feature_name)
                 sub_grp.create_dataset('data', data=final[name][feature_name])
     print("saving data")
+    return f"midicaps_features_{samples}.h5"
 
 
-def read_data(file_paht):
+def read_data(file_paht, name):
     final_data = {}
     # Open the HDF5 file in read mode
-    with h5py.File(file_paht+'vgmidi_features.h5', 'r') as hf:
+    with h5py.File(file_paht+name, 'r') as hf:
         # Iterate through the top-level groups
         for group_name in hf.keys():
             aux = {}
@@ -330,14 +330,16 @@ if __name__ == '__main__':
 
     samples = int(sys.argv[1])
 
-    path = 'dataset/lmd_full'
-    paths_list = get_name_midi_files(path, 500)
+    path = f'{os.getcwd()}/dataset/midicap/normal'
+    paths_list = get_name_midi_files(path, samples)
+
+    print(paths_list)
     midi_features,paths_list = get_midi_features_dataset(paths_list, samples)
     embeddings = extract_audio_embeddings(paths_list)
     audio_features = get_audio_features(embeddings)
     ground_truth = get_ground_truth_arousal_valence(embeddings)
     final_dataset = create_final_file(midi_features,audio_features,ground_truth)
-    save_file('dataset/midicap/final/',final_dataset, samples)
-    data = read_data('dataset/midicap/final/')
+    name = save_file(f'{os.getcwd()}/dataset/midicap/prepared/',final_dataset, samples)
+    data = read_data(f'{os.getcwd()}/dataset/midicap/prepared/', name)
 
     # print(deep_equal(final_dataset,data))
